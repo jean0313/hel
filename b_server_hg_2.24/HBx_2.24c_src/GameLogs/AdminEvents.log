@@ -1,0 +1,1725 @@
+(2007: 3: 6:16:24) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 6:16:24) -  
+(2007: 3: 6:16:24) - (!!!) CRITICAL ERROR! Cannot execute server! GServer.cfg file contents error!
+(2007: 3: 6:16:24) - (!!!) STOPPED!
+(2007: 3: 6:16:59) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 6:16:59) -  
+(2007: 3: 6:16:59) - (!!!) CRITICAL ERROR! Cannot execute server! GServer.cfg file contents error!
+(2007: 3: 6:16:59) - (!!!) STOPPED!
+(2007: 3: 7:14: 5) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 7:14: 5) -  
+(2007: 3: 7:14: 5) - (!!!) CRITICAL ERROR! Cannot execute server! GServer.cfg file contents error!
+(2007: 3: 7:14: 5) - (!!!) STOPPED!
+(2007: 3: 8:13:20) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 8:13:20) -  
+(2007: 3: 8:13:20) - (!!!) CRITICAL ERROR! Cannot execute server! GServer.cfg file contents error!
+(2007: 3: 8:13:20) - (!!!) STOPPED!
+(2007: 3: 8:13:27) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 8:13:29) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 8:13:32) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 8:13:42) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 8:13:43) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 8:13:43) -  
+(2007: 3: 8:13:43) - (!!!) CRITICAL ERROR! Cannot execute server! GServer.cfg file contents error!
+(2007: 3: 8:13:43) - (!!!) STOPPED!
+(2007: 3: 8:13:47) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 8:13:47) -  
+(2007: 3: 8:13:47) - (!!!) CRITICAL ERROR! Cannot execute server! GServer.cfg file contents error!
+(2007: 3: 8:14: 1) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 8:14: 1) -  
+(2007: 3: 8:14: 1) - (!!!) CRITICAL ERROR! Cannot execute server! GServer.cfg file contents error!
+(2007: 3: 8:14:32) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 8:14:32) -  
+(2007: 3: 8:14:32) - (!!!) CRITICAL ERROR! Cannot execute server! GServer.cfg file contents error!
+(2007: 3: 8:14:32) - (!!!) STOPPED!
+(2007: 3: 8:14:34) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 8:14:34) -  
+(2007: 3: 8:14:34) - (!!!) CRITICAL ERROR! Cannot execute server! GServer.cfg file contents error!
+(2007: 3: 8:14:34) - (!!!) STOPPED!
+(2007: 3: 8:14:35) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 8:14:35) - (!) Reading configuration file...
+(2007: 3: 8:14:35) - (*) Game server name : 阿国
+(2007: 3: 8:14:35) - (*) Game server address : 192.168.0.211
+(2007: 3: 8:14:35) - (*) Game server port : 9901
+(2007: 3: 8:14:35) - (*) Game server address : 192.168.1.1
+(2007: 3: 8:14:35) - (*) Game server mode : INTERNET
+(2007: 3: 8:14:35) - (*) Log server address : 192.168.1.1
+(2007: 3: 8:14:35) - (*) Log server port : 2500
+(2007: 3: 8:14:35) - (*) Gate server address : 192.168.1.1
+(2007: 3: 8:14:35) - (*) Gate server port : 6502
+(2007: 3: 8:14:35) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 8:14:35) - (!!!) Data file loading fail!
+(2007: 3: 8:14:35) -  
+(2007: 3: 8:14:35) - (!!!) CRITICAL ERROR! Cannot execute server! GServer.cfg file contents error!
+(2007: 3: 8:14:35) - (!!!) STOPPED!
+(2007: 3: 8:14:37) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 8:14:39) - (!) Reading configuration file...
+(2007: 3: 8:14:48) - (*) Game server name : 阿国
+(2007: 3: 8:14:48) - (*) Game server address : 192.168.0.211
+(2007: 3: 8:14:48) - (*) Game server port : 9901
+(2007: 3: 8:14:48) - (*) Game server address : 192.168.1.1
+(2007: 3: 8:14:48) - (*) Game server mode : INTERNET
+(2007: 3: 8:14:48) - (*) Log server address : 192.168.1.1
+(2007: 3: 8:14:48) - (*) Log server port : 2500
+(2007: 3: 8:14:48) - (*) Gate server address : 192.168.1.1
+(2007: 3: 8:14:48) - (*) Gate server port : 6502
+(2007: 3: 8:14:48) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 8:14:48) - (!!!) Data file loading fail!
+(2007: 3: 8:14:48) -  
+(2007: 3: 8:14:48) - (!!!) CRITICAL ERROR! Cannot execute server! GServer.cfg file contents error!
+(2007: 3: 8:14:48) - (!!!) STOPPED!
+(2007: 3: 8:14:49) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 8:14:49) - (!) Reading configuration file...
+(2007: 3: 8:14:49) - (*) Game server name : 阿国
+(2007: 3: 8:14:49) - (*) Game server address : 192.168.0.211
+(2007: 3: 8:14:49) - (*) Game server port : 9901
+(2007: 3: 8:14:49) - (*) Game server address : 192.168.1.1
+(2007: 3: 8:14:49) - (*) Game server mode : INTERNET
+(2007: 3: 8:14:49) - (*) Log server address : 192.168.1.1
+(2007: 3: 8:14:49) - (*) Log server port : 2500
+(2007: 3: 8:14:49) - (*) Gate server address : 192.168.1.1
+(2007: 3: 8:14:49) - (*) Gate server port : 6502
+(2007: 3: 8:14:49) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 8:14:49) - (!!!) Data file loading fail!
+(2007: 3: 8:14:49) -  
+(2007: 3: 8:14:49) - (!!!) CRITICAL ERROR! Cannot execute server! GServer.cfg file contents error!
+(2007: 3: 8:14:49) - (!!!) STOPPED!
+(2007: 3: 8:14:50) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 8:14:50) - (!) Reading configuration file...
+(2007: 3: 8:14:50) - (*) Game server name : 阿国
+(2007: 3: 8:14:50) - (*) Game server address : 192.168.0.211
+(2007: 3: 8:14:50) - (*) Game server port : 9901
+(2007: 3: 8:14:50) - (*) Game server address : 192.168.1.1
+(2007: 3: 8:14:50) - (*) Game server mode : INTERNET
+(2007: 3: 8:14:50) - (*) Log server address : 192.168.1.1
+(2007: 3: 8:14:50) - (*) Log server port : 2500
+(2007: 3: 8:14:50) - (*) Gate server address : 192.168.1.1
+(2007: 3: 8:14:50) - (*) Gate server port : 6502
+(2007: 3: 8:14:50) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 8:14:50) - (!!!) Data file loading fail!
+(2007: 3: 8:14:50) -  
+(2007: 3: 8:14:50) - (!!!) CRITICAL ERROR! Cannot execute server! GServer.cfg file contents error!
+(2007: 3: 8:14:50) - (!!!) STOPPED!
+(2007: 3: 8:14:52) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 8:14:53) - (!) Reading configuration file...
+(2007: 3: 8:14:55) - (*) Game server name : 阿国
+(2007: 3: 8:14:57) - (*) Game server address : 192.168.0.211
+(2007: 3: 8:14:57) - (*) Game server port : 9901
+(2007: 3: 8:14:57) - (*) Game server address : 192.168.1.1
+(2007: 3: 8:14:57) - (*) Game server mode : INTERNET
+(2007: 3: 8:14:57) - (*) Log server address : 192.168.1.1
+(2007: 3: 8:14:57) - (*) Log server port : 2500
+(2007: 3: 8:14:57) - (*) Gate server address : 192.168.1.1
+(2007: 3: 8:14:57) - (*) Gate server port : 6502
+(2007: 3: 8:14:57) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 8:14:57) - (!!!) Data file loading fail!
+(2007: 3: 8:14:57) -  
+(2007: 3: 8:14:57) - (!!!) CRITICAL ERROR! Cannot execute server! GServer.cfg file contents error!
+(2007: 3: 8:14:57) - (!!!) STOPPED!
+(2007: 3: 8:15: 0) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 8:15: 0) - (!) Reading configuration file...
+(2007: 3: 8:15: 0) - (*) Game server name : 阿国
+(2007: 3: 8:15: 0) - (*) Game server address : 192.168.0.211
+(2007: 3: 8:15: 0) - (*) Game server port : 9901
+(2007: 3: 8:15: 0) - (*) Game server address : 192.168.1.1
+(2007: 3: 8:15: 0) - (*) Game server mode : INTERNET
+(2007: 3: 8:15: 0) - (*) Log server address : 192.168.1.1
+(2007: 3: 8:15: 0) - (*) Log server port : 2500
+(2007: 3: 8:15: 0) - (*) Gate server address : 192.168.1.1
+(2007: 3: 8:15: 0) - (*) Gate server port : 6502
+(2007: 3: 8:15: 0) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 8:15: 0) - (!!!) Data file loading fail!
+(2007: 3: 8:15: 1) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 8:15: 1) - (!) Reading configuration file...
+(2007: 3: 8:15: 1) - (*) Game server name : 阿国
+(2007: 3: 8:15: 1) - (*) Game server address : 192.168.0.211
+(2007: 3: 8:15: 1) - (*) Game server port : 9901
+(2007: 3: 8:15: 1) - (*) Game server address : 192.168.1.1
+(2007: 3: 8:15: 1) - (*) Game server mode : INTERNET
+(2007: 3: 8:15: 1) - (*) Log server address : 192.168.1.1
+(2007: 3: 8:15: 1) - (*) Log server port : 2500
+(2007: 3: 8:15: 1) - (*) Gate server address : 192.168.1.1
+(2007: 3: 8:15: 1) - (*) Gate server port : 6502
+(2007: 3: 8:15: 1) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 8:15: 1) - (!!!) Data file loading fail!
+(2007: 3: 8:15: 1) -  
+(2007: 3: 8:15: 2) - (!!!) CRITICAL ERROR! Cannot execute server! GServer.cfg file contents error!
+(2007: 3: 8:15: 2) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 8:15: 2) - (!) Reading configuration file...
+(2007: 3: 8:15: 3) - (*) Game server name : 阿国
+(2007: 3: 8:15: 3) - (*) Game server address : 192.168.0.211
+(2007: 3: 8:15: 3) - (*) Game server port : 9901
+(2007: 3: 8:15: 3) - (*) Game server address : 192.168.1.1
+(2007: 3: 8:15: 4) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 8:15: 4) - (!) Reading configuration file...
+(2007: 3: 8:15: 4) - (*) Game server name : 阿国
+(2007: 3: 8:15: 4) - (*) Game server address : 192.168.0.211
+(2007: 3: 8:15: 4) - (*) Game server port : 9901
+(2007: 3: 8:15: 4) - (*) Game server address : 192.168.0.211
+(2007: 3: 8:15: 4) - (*) Game server mode : INTERNET
+(2007: 3: 8:15: 4) - (*) Log server address : 192.168.0.211
+(2007: 3: 8:15: 4) - (*) Log server port : 2500
+(2007: 3: 8:15: 4) - (*) Gate server address : 192.168.0.211
+(2007: 3: 8:15: 4) - (*) Gate server port : 6502
+(2007: 3: 8:15: 4) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 8:15: 4) - (!!!) Data file loading fail!
+(2007: 3: 8:15: 4) -  
+(2007: 3: 8:15: 4) - (!!!) CRITICAL ERROR! Cannot execute server! GServer.cfg file contents error!
+(2007: 3: 8:15: 4) - (!!!) STOPPED!
+(2007: 3: 8:15: 4) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 8:15: 4) - (!) Reading configuration file...
+(2007: 3: 8:15: 4) - (*) Game server name : 阿国
+(2007: 3: 8:15: 4) - (*) Game server address : 192.168.0.211
+(2007: 3: 8:15: 4) - (*) Game server port : 9901
+(2007: 3: 8:15: 4) - (*) Game server address : 192.168.0.211
+(2007: 3: 8:15: 4) - (*) Game server mode : INTERNET
+(2007: 3: 8:15: 4) - (*) Log server address : 192.168.0.211
+(2007: 3: 8:15: 4) - (*) Log server port : 2500
+(2007: 3: 8:15: 4) - (*) Gate server address : 192.168.0.211
+(2007: 3: 8:15: 4) - (*) Gate server port : 6502
+(2007: 3: 8:15: 4) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 8:15: 4) - (!!!) Data file loading fail!
+(2007: 3: 8:15: 4) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 8:15: 5) - (!) Reading configuration file...
+(2007: 3: 8:15: 5) - (*) Game server name : 阿国
+(2007: 3: 8:15: 5) - (*) Game server address : 192.168.0.211
+(2007: 3: 8:15: 5) - (*) Game server port : 9901
+(2007: 3: 8:15: 5) - (*) Game server address : 192.168.0.211
+(2007: 3: 8:15: 6) - (*) Game server mode : INTERNET
+(2007: 3: 8:15: 6) - (*) Log server address : 192.168.0.211
+(2007: 3: 8:15: 6) - (*) Log server port : 2500
+(2007: 3: 8:15: 6) - (*) Gate server address : 192.168.0.211
+(2007: 3: 8:15: 7) - (*) Gate server port : 6502
+(2007: 3: 8:15: 8) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 8:15: 8) - (!!!) Data file loading fail!
+(2007: 3: 8:15: 8) -  
+(2007: 3: 8:15: 8) - (!!!) CRITICAL ERROR! Cannot execute server! GServer.cfg file contents error!
+(2007: 3: 8:15: 8) - (!!!) STOPPED!
+(2007: 3: 8:15: 9) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 8:15: 9) - (!) Reading configuration file...
+(2007: 3: 8:15: 9) - (*) Game server name : 阿国
+(2007: 3: 8:15: 9) - (*) Game server address : 192.168.0.211
+(2007: 3: 8:15: 9) - (*) Game server port : 9901
+(2007: 3: 8:15:10) - (*) Game server address : 192.168.0.211
+(2007: 3: 8:15:10) - (*) Game server mode : INTERNET
+(2007: 3: 8:15:10) - (*) Log server address : 192.168.0.211
+(2007: 3: 8:15:10) - (*) Log server port : 2500
+(2007: 3: 8:15:10) - (*) Gate server address : 192.168.0.211
+(2007: 3: 8:15:10) - (*) Gate server port : 6502
+(2007: 3: 8:15:10) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 8:15:10) - (!!!) Data file loading fail!
+(2007: 3: 8:15:10) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 8:15:10) - (!) Reading configuration file...
+(2007: 3: 8:15:10) - (*) Game server name : 阿国
+(2007: 3: 8:15:10) - (*) Game server address : 192.168.0.211
+(2007: 3: 8:15:10) - (*) Game server port : 9901
+(2007: 3: 8:15:10) - (*) Game server address : 192.168.0.211
+(2007: 3: 8:15:10) - (*) Game server mode : INTERNET
+(2007: 3: 8:15:10) - (*) Log server address : 192.168.0.211
+(2007: 3: 8:15:10) - (*) Log server port : 2500
+(2007: 3: 8:15:10) - (*) Gate server address : 192.168.0.211
+(2007: 3: 8:15:10) - (*) Gate server port : 6502
+(2007: 3: 8:15:14) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 8:15:14) - (!!!) Data file loading fail!
+(2007: 3: 8:15:15) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 8:15:15) - (!) Reading configuration file...
+(2007: 3: 8:15:15) - (*) Game server name : 阿国
+(2007: 3: 8:15:15) - (*) Game server address : 192.168.0.211
+(2007: 3: 8:15:15) - (*) Game server port : 9901
+(2007: 3: 8:15:15) - (*) Game server address : 192.168.0.211
+(2007: 3: 8:15:15) - (*) Game server mode : INTERNET
+(2007: 3: 8:15:15) - (*) Log server address : 192.168.0.211
+(2007: 3: 8:15:15) - (*) Log server port : 2500
+(2007: 3: 8:15:15) - (*) Gate server address : 192.168.0.211
+(2007: 3: 8:15:15) - (*) Gate server port : 6502
+(2007: 3: 8:15:15) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 8:15:15) - (!!!) Data file loading fail!
+(2007: 3: 8:15:15) -  
+(2007: 3: 8:15:15) - (!!!) CRITICAL ERROR! Cannot execute server! GServer.cfg file contents error!
+(2007: 3: 8:15:15) - (!!!) STOPPED!
+(2007: 3: 8:15:17) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 8:15:17) - (!) Reading configuration file...
+(2007: 3: 8:15:17) - (*) Game server name : 阿国
+(2007: 3: 8:15:17) - (*) Game server address : 192.168.0.211
+(2007: 3: 8:15:17) - (*) Game server port : 9901
+(2007: 3: 8:15:17) - (*) Game server address : 192.168.0.211
+(2007: 3: 8:15:17) - (*) Game server mode : INTERNET
+(2007: 3: 8:15:17) - (*) Log server address : 192.168.0.211
+(2007: 3: 8:15:17) - (*) Log server port : 2500
+(2007: 3: 8:15:17) - (*) Gate server address : 192.168.0.211
+(2007: 3: 8:15:17) - (*) Gate server port : 6502
+(2007: 3: 8:15:17) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 8:15:17) - (!!!) Data file loading fail!
+(2007: 3: 8:15:17) -  
+(2007: 3: 8:15:17) - (!!!) CRITICAL ERROR! Cannot execute server! GServer.cfg file contents error!
+(2007: 3: 8:15:17) - (!!!) STOPPED!
+(2007: 3: 8:15:18) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 8:15:18) - (!) Reading configuration file...
+(2007: 3: 8:15:18) - (*) Game server name : 阿国
+(2007: 3: 8:15:18) - (*) Game server address : 192.168.0.211
+(2007: 3: 8:15:18) - (*) Game server port : 9901
+(2007: 3: 8:15:18) - (*) Game server address : 192.168.0.211
+(2007: 3: 8:15:18) - (*) Game server mode : INTERNET
+(2007: 3: 8:15:18) - (*) Log server address : 192.168.0.211
+(2007: 3: 8:15:18) - (*) Log server port : 2500
+(2007: 3: 8:15:18) - (*) Gate server address : 192.168.0.211
+(2007: 3: 8:15:18) - (*) Gate server port : 6502
+(2007: 3: 8:15:18) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 8:15:18) - (!!!) Data file loading fail!
+(2007: 3: 8:15:18) -  
+(2007: 3: 8:15:18) - (!!!) CRITICAL ERROR! Cannot execute server! GServer.cfg file contents error!
+(2007: 3: 8:15:18) - (!!!) STOPPED!
+(2007: 3: 9: 8:56) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9: 8:56) - (!) Reading configuration file...
+(2007: 3: 9: 8:56) - (*) Game server name : 阿国
+(2007: 3: 9: 8:56) - (*) Game server address : 192.168.0.211
+(2007: 3: 9: 8:56) - (*) Game server port : 9901
+(2007: 3: 9: 8:56) - (*) Game server address : 192.168.0.211
+(2007: 3: 9: 8:56) - (*) Game server mode : INTERNET
+(2007: 3: 9: 8:56) - (*) Log server address : 192.168.0.211
+(2007: 3: 9: 8:56) - (*) Log server port : 2500
+(2007: 3: 9: 8:56) - (*) Gate server address : 192.168.0.211
+(2007: 3: 9: 8:56) - (*) Gate server port : 6502
+(2007: 3: 9: 8:56) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9: 8:56) - (!!!) Data file loading fail!
+(2007: 3: 9: 8:57) -  
+(2007: 3: 9: 8:57) - (!!!) CRITICAL ERROR! Cannot execute server! GServer.cfg file contents error!
+(2007: 3: 9: 8:57) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9: 8:57) - (!) Reading configuration file...
+(2007: 3: 9: 8:57) - (*) Game server name : 阿国
+(2007: 3: 9: 8:58) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9: 8:58) - (!) Reading configuration file...
+(2007: 3: 9: 8:58) - (*) Game server name : pkqiang
+(2007: 3: 9: 8:58) - (*) Game server address : 192.168.0.211
+(2007: 3: 9: 8:58) - (*) Game server port : 9901
+(2007: 3: 9: 8:58) - (*) Game server address : 192.168.0.211
+(2007: 3: 9: 8:58) - (*) Game server mode : INTERNET
+(2007: 3: 9: 8:58) - (*) Log server address : 192.168.0.211
+(2007: 3: 9: 8:58) - (*) Log server port : 2500
+(2007: 3: 9: 8:58) - (*) Gate server address : 192.168.0.211
+(2007: 3: 9: 8:58) - (*) Gate server port : 6502
+(2007: 3: 9: 8:59) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9: 8:59) - (!!!) Data file loading fail!
+(2007: 3: 9: 8:59) -  
+(2007: 3: 9: 8:59) - (!!!) CRITICAL ERROR! Cannot execute server! GServer.cfg file contents error!
+(2007: 3: 9: 9: 0) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9: 9: 0) - (!) Reading configuration file...
+(2007: 3: 9: 9: 0) - (*) Game server name : pkqiang
+(2007: 3: 9: 9: 0) - (*) Game server address : 192.168.0.211
+(2007: 3: 9: 9: 0) - (*) Game server port : 9901
+(2007: 3: 9: 9: 0) - (*) Game server address : 192.168.0.211
+(2007: 3: 9: 9: 0) - (*) Game server mode : INTERNET
+(2007: 3: 9: 9: 0) - (*) Log server address : 192.168.0.211
+(2007: 3: 9: 9: 0) - (*) Log server port : 2500
+(2007: 3: 9: 9: 0) - (*) Gate server address : 192.168.0.211
+(2007: 3: 9: 9: 0) - (*) Gate server port : 6502
+(2007: 3: 9: 9: 0) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9: 9: 0) - (!!!) Data file loading fail!
+(2007: 3: 9: 9: 0) -  
+(2007: 3: 9: 9: 0) - (!!!) CRITICAL ERROR! Cannot execute server! GServer.cfg file contents error!
+(2007: 3: 9: 9: 0) - (!!!) STOPPED!
+(2007: 3: 9: 9: 1) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9: 9: 1) - (!) Reading configuration file...
+(2007: 3: 9: 9: 1) - (*) Game server name : pkqiang
+(2007: 3: 9: 9: 1) - (*) Game server address : 192.168.0.211
+(2007: 3: 9: 9: 1) - (*) Game server port : 9901
+(2007: 3: 9: 9: 1) - (*) Game server address : 192.168.0.211
+(2007: 3: 9: 9: 1) - (*) Game server mode : INTERNET
+(2007: 3: 9: 9: 1) - (*) Log server address : 192.168.0.211
+(2007: 3: 9: 9: 1) - (*) Log server port : 2500
+(2007: 3: 9: 9: 1) - (*) Gate server address : 192.168.0.211
+(2007: 3: 9: 9: 2) - (*) Gate server port : 6502
+(2007: 3: 9: 9: 6) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9: 9: 6) - (!!!) Data file loading fail!
+(2007: 3: 9: 9:16) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9: 9:16) - (!) Reading configuration file...
+(2007: 3: 9: 9:16) - (*) Game server name : pkqiang
+(2007: 3: 9: 9:16) - (*) Game server address : 192.168.0.211
+(2007: 3: 9: 9:16) - (*) Game server port : 9901
+(2007: 3: 9: 9:16) - (*) Game server address : 192.168.0.211
+(2007: 3: 9: 9:16) - (*) Game server mode : INTERNET
+(2007: 3: 9: 9:16) - (*) Log server address : 192.168.0.211
+(2007: 3: 9: 9:16) - (*) Log server port : 2500
+(2007: 3: 9: 9:16) - (*) Gate server address : 192.168.0.211
+(2007: 3: 9: 9:16) - (*) Gate server port : 6502
+(2007: 3: 9: 9:16) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9: 9:21) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9: 9:21) - (!) Reading configuration file...
+(2007: 3: 9: 9:21) - (*) Game server name : pkqiang
+(2007: 3: 9: 9:21) - (*) Game server address : 192.168.0.211
+(2007: 3: 9: 9:21) - (*) Game server port : 9901
+(2007: 3: 9: 9:21) - (*) Game server address : 192.168.0.211
+(2007: 3: 9: 9:21) - (*) Game server mode : INTERNET
+(2007: 3: 9: 9:21) - (*) Log server address : 192.168.0.211
+(2007: 3: 9: 9:21) - (*) Log server port : 2500
+(2007: 3: 9: 9:21) - (*) Gate server address : 192.168.0.211
+(2007: 3: 9: 9:21) - (*) Gate server port : 6502
+(2007: 3: 9: 9:21) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9: 9:22) - (*) Data file loading success.
+(2007: 3: 9: 9:26) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9: 9:26) - (!) Reading configuration file...
+(2007: 3: 9: 9:26) - (*) Game server name : pkqiang
+(2007: 3: 9: 9:26) - (*) Game server address : 192.168.0.211
+(2007: 3: 9: 9:26) - (*) Game server port : 9901
+(2007: 3: 9: 9:26) - (*) Game server address : 192.168.0.211
+(2007: 3: 9: 9:26) - (*) Game server mode : INTERNET
+(2007: 3: 9: 9:26) - (*) Log server address : 192.168.0.211
+(2007: 3: 9: 9:26) - (*) Log server port : 2500
+(2007: 3: 9: 9:26) - (*) Gate server address : 192.168.0.211
+(2007: 3: 9: 9:26) - (*) Gate server port : 6502
+(2007: 3: 9: 9:26) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9: 9:26) - (*) Data file loading success.
+(2007: 3: 9: 9:26) -  
+(2007: 3: 9: 9:26) - (!!!) CRITICAL ERROR! Cannot execute server! Settings.cfg file contents error!
+(2007: 3: 9: 9:26) - (!!!) STOPPED!
+(2007: 3: 9: 9:29) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9: 9:29) - (!) Reading configuration file...
+(2007: 3: 9: 9:29) - (*) Game server name : pkqiang
+(2007: 3: 9: 9:29) - (*) Game server address : 192.168.0.211
+(2007: 3: 9: 9:29) - (*) Game server port : 9901
+(2007: 3: 9: 9:29) - (*) Game server address : 192.168.0.211
+(2007: 3: 9: 9:29) - (*) Game server mode : INTERNET
+(2007: 3: 9: 9:29) - (*) Log server address : 192.168.0.211
+(2007: 3: 9: 9:29) - (*) Log server port : 2500
+(2007: 3: 9: 9:29) - (*) Gate server address : 192.168.0.211
+(2007: 3: 9: 9:30) - (*) Gate server port : 6502
+(2007: 3: 9: 9:30) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9: 9:30) - (*) Data file loading success.
+(2007: 3: 9: 9:34) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9: 9:34) - (!) Reading configuration file...
+(2007: 3: 9: 9:34) - (*) Game server name : pkqiang
+(2007: 3: 9: 9:34) - (*) Game server address : 192.168.0.211
+(2007: 3: 9: 9:34) - (*) Game server port : 9901
+(2007: 3: 9: 9:34) - (*) Game server address : 192.168.0.211
+(2007: 3: 9: 9:34) - (*) Game server mode : INTERNET
+(2007: 3: 9: 9:34) - (*) Log server address : 192.168.0.211
+(2007: 3: 9: 9:34) - (*) Log server port : 2500
+(2007: 3: 9: 9:34) - (*) Gate server address : 192.168.0.211
+(2007: 3: 9: 9:34) - (*) Gate server port : 6502
+(2007: 3: 9: 9:34) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9: 9:34) - (*) Data file loading success.
+(2007: 3: 9: 9:34) -  
+(2007: 3: 9: 9:34) - (!!!) CRITICAL ERROR! Cannot execute server! Settings.cfg file contents error!
+(2007: 3: 9: 9:34) - (!!!) STOPPED!
+(2007: 3: 9: 9:35) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9: 9:35) - (!) Reading configuration file...
+(2007: 3: 9: 9:35) - (*) Game server name : pkqiang
+(2007: 3: 9: 9:35) - (*) Game server address : 192.168.0.211
+(2007: 3: 9: 9:35) - (*) Game server port : 9901
+(2007: 3: 9: 9:35) - (*) Game server address : 192.168.0.211
+(2007: 3: 9: 9:35) - (*) Game server mode : INTERNET
+(2007: 3: 9: 9:35) - (*) Log server address : 192.168.0.211
+(2007: 3: 9: 9:35) - (*) Log server port : 2500
+(2007: 3: 9: 9:35) - (*) Gate server address : 192.168.0.211
+(2007: 3: 9: 9:35) - (*) Gate server port : 6502
+(2007: 3: 9: 9:35) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9: 9:35) - (*) Data file loading success.
+(2007: 3: 9: 9:36) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9: 9:36) - (!) Reading configuration file...
+(2007: 3: 9: 9:36) - (*) Game server name : pkqiang
+(2007: 3: 9: 9:36) - (*) Game server address : 192.168.0.211
+(2007: 3: 9: 9:36) - (*) Game server port : 9901
+(2007: 3: 9: 9:36) - (*) Game server address : 192.168.0.211
+(2007: 3: 9: 9:36) - (*) Game server mode : INTERNET
+(2007: 3: 9: 9:36) - (*) Log server address : 192.168.0.211
+(2007: 3: 9: 9:36) - (*) Log server port : 2500
+(2007: 3: 9: 9:36) - (*) Gate server address : 192.168.0.211
+(2007: 3: 9: 9:36) - (*) Gate server port : 6502
+(2007: 3: 9: 9:36) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9: 9:36) - (*) Data file loading success.
+(2007: 3: 9: 9:37) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9: 9:37) - (!) Reading configuration file...
+(2007: 3: 9: 9:37) - (*) Game server name : pkqiang
+(2007: 3: 9: 9:37) - (*) Game server address : 192.168.0.211
+(2007: 3: 9: 9:37) - (*) Game server port : 9901
+(2007: 3: 9: 9:37) - (*) Game server address : 192.168.0.211
+(2007: 3: 9: 9:37) - (*) Game server mode : INTERNET
+(2007: 3: 9: 9:37) - (*) Log server address : 192.168.0.211
+(2007: 3: 9: 9:37) - (*) Log server port : 2500
+(2007: 3: 9: 9:37) - (*) Gate server address : 192.168.0.211
+(2007: 3: 9: 9:37) - (*) Gate server port : 6502
+(2007: 3: 9: 9:37) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9: 9:37) - (*) Data file loading success.
+(2007: 3: 9: 9:37) - (!) Reading settings file...
+(2007: 3: 9: 9:37) - (*) Enemy Kill Mode: DEATHMATCH
+(2007: 3: 9: 9:37) - (*) Player gains (3) EK per enemy kill.
+(2007: 3: 9: 9:37) - (*) Primary drop rate: (1000)
+(2007: 3: 9: 9:37) - (*) Secondary drop rate: (850)
+(2007: 3: 9: 9:37) - (*) Administator vulnerability ignored.
+(2007: 3: 9: 9:37) - (*) Monday Raid Time : (10) minutes
+(2007: 3: 9: 9:37) - (*) Tuesday Raid Time : (10) minutes
+(2007: 3: 9: 9:37) - (*) Wednesday Raid Time : (10) minutes
+(2007: 3: 9: 9:37) - (*) Thursday Raid Time : (10) minutes
+(2007: 3: 9: 9:37) - (*) Friday Raid Time : (30) minutes
+(2007: 3: 9: 9:37) - (*) Saturday Raid Time : (45) minutes
+(2007: 3: 9: 9:37) - (*) Sunday Raid Time : (60) minutes
+(2007: 3: 9: 9:37) - (*) Logging All Chat.
+(2007: 3: 9: 9:37) - (*) Slate Success Rate (25) percent
+(2007: 3: 9: 9:37) - (*) Rep<->Drop modifier: (5)
+(2007: 3: 9: 9:37) - (*) Security number memorized!
+(2007: 3: 9: 9:38) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9: 9:38) - (!) Reading configuration file...
+(2007: 3: 9: 9:38) - (*) Game server name : pkqiang
+(2007: 3: 9: 9:38) - (*) Game server address : 192.168.0.211
+(2007: 3: 9: 9:38) - (*) Game server port : 9901
+(2007: 3: 9: 9:38) - (*) Game server address : 192.168.0.211
+(2007: 3: 9: 9:38) - (*) Game server mode : INTERNET
+(2007: 3: 9: 9:38) - (*) Log server address : 192.168.0.211
+(2007: 3: 9: 9:38) - (*) Log server port : 2500
+(2007: 3: 9: 9:38) - (*) Gate server address : 192.168.0.211
+(2007: 3: 9: 9:38) - (*) Gate server port : 6502
+(2007: 3: 9: 9:38) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9: 9:38) - (*) Data file loading success.
+(2007: 3: 9: 9:38) - (!) Reading settings file...
+(2007: 3: 9: 9:38) - (*) Enemy Kill Mode: DEATHMATCH
+(2007: 3: 9: 9:38) - (*) Player gains (3) EK per enemy kill.
+(2007: 3: 9: 9:38) - (*) Primary drop rate: (1000)
+(2007: 3: 9: 9:38) - (*) Secondary drop rate: (850)
+(2007: 3: 9: 9:38) - (*) Administator vulnerability ignored.
+(2007: 3: 9: 9:38) - (*) Monday Raid Time : (10) minutes
+(2007: 3: 9: 9:38) - (*) Tuesday Raid Time : (10) minutes
+(2007: 3: 9: 9:38) - (*) Wednesday Raid Time : (10) minutes
+(2007: 3: 9: 9:38) - (*) Thursday Raid Time : (10) minutes
+(2007: 3: 9: 9:38) - (*) Friday Raid Time : (30) minutes
+(2007: 3: 9: 9:38) - (*) Saturday Raid Time : (45) minutes
+(2007: 3: 9: 9:38) - (*) Sunday Raid Time : (60) minutes
+(2007: 3: 9: 9:38) - (*) Logging All Chat.
+(2007: 3: 9: 9:38) - (*) Slate Success Rate (25) percent
+(2007: 3: 9: 9:38) - (*) Rep<->Drop modifier: (5)
+(2007: 3: 9: 9:38) - (*) Security number memorized!
+(2007: 3: 9: 9:38) - (!) Reading AdminList.cfg...
+(2007: 3: 9: 9:38) - (!) Reading BannedList.cfg...
+(2007: 3: 9: 9:38) - (!) Reading settings file...
+(2007: 3: 9: 9:38) - (!) Try to Connect main-log-socket... Addr:192.168.0.211  Port:2500
+(2007: 3: 9: 9:38) - (!) Try to Connect Gate Server... Addr:192.168.0.211  Port:6502
+(2007: 3: 9: 9:38) - (!) Notify Message list file not found!...
+(2007: 3: 9: 9:38) - (!) Try to connect sub-log-socket(0)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9: 9:38) - (!) Try to connect sub-log-socket(1)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9: 9:38) - (!) Try to connect sub-log-socket(2)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9: 9:38) - (!!!) Gate-socket connection counting...1
+(2007: 3: 9: 9:38) - (!) Try to connect sub-log-socket(3)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9: 9:38) - (!) Try to connect sub-log-socket(4)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9: 9:38) - (!) Try to connect sub-log-socket(5)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9: 9:38) - (!) Try to connect sub-log-socket(6)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9: 9:38) - (!!!) Gate-socket connection counting...2
+(2007: 3: 9: 9:38) - (!) Try to connect sub-log-socket(7)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9: 9:38) - (!) Try to connect sub-log-socket(8)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9: 9:38) - (!) Try to connect sub-log-socket(9)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9: 9:38) - (!!!) Gate-socket connection counting...3
+(2007: 3: 9: 9:38) - (!!!) Gate-socket connection counting...4
+(2007: 3: 9: 9:38) - (!!!) Gate-socket connection counting...5
+(2007: 3: 9: 9:38) - (!!!) Gate-socket connection counting...6
+(2007: 3: 9: 9:38) - (!!!) Gate-socket connection counting...7
+(2007: 3: 9: 9:38) - (!!!) Gate-socket connection counting...8
+(2007: 3: 9: 9:38) - (!!!) Gate-socket connection counting...9
+(2007: 3: 9: 9:38) - (!!!) Gate-socket connection counting...10
+(2007: 3: 9: 9:39) - (!!!) Gate-socket connection counting...11
+(2007: 3: 9: 9:39) - (!!!) Gate-socket connection counting...12
+(2007: 3: 9: 9:39) - (!!!) Gate-socket connection counting...13
+(2007: 3: 9: 9:39) - (!!!) Gate-socket connection counting...14
+(2007: 3: 9: 9:39) - (!!!) Gate-socket connection counting...15
+(2007: 3: 9: 9:39) - (!!!) Gate-socket connection counting...16
+(2007: 3: 9: 9:39) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9: 9:39) - (!) Reading configuration file...
+(2007: 3: 9: 9:39) - (*) Game server name : pkqiang
+(2007: 3: 9: 9:39) - (*) Game server address : 192.168.0.211
+(2007: 3: 9: 9:39) - (*) Game server port : 9901
+(2007: 3: 9: 9:39) - (*) Game server address : 192.168.0.211
+(2007: 3: 9: 9:39) - (*) Game server mode : INTERNET
+(2007: 3: 9: 9:40) - (*) Log server address : 192.168.0.211
+(2007: 3: 9: 9:40) - (*) Log server port : 2500
+(2007: 3: 9: 9:40) - (*) Gate server address : 192.168.0.211
+(2007: 3: 9: 9:40) - (*) Gate server port : 6502
+(2007: 3: 9: 9:40) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9: 9:40) - (*) Data file loading success.
+(2007: 3: 9: 9:40) - (!) Reading settings file...
+(2007: 3: 9: 9:40) - (*) Enemy Kill Mode: DEATHMATCH
+(2007: 3: 9: 9:40) - (*) Player gains (3) EK per enemy kill.
+(2007: 3: 9: 9:40) - (*) Primary drop rate: (1000)
+(2007: 3: 9: 9:40) - (*) Secondary drop rate: (850)
+(2007: 3: 9: 9:40) - (*) Administator vulnerability ignored.
+(2007: 3: 9: 9:40) - (*) Monday Raid Time : (10) minutes
+(2007: 3: 9: 9:40) - (*) Tuesday Raid Time : (10) minutes
+(2007: 3: 9: 9:40) - (*) Wednesday Raid Time : (10) minutes
+(2007: 3: 9: 9:40) - (*) Thursday Raid Time : (10) minutes
+(2007: 3: 9: 9:40) - (*) Friday Raid Time : (30) minutes
+(2007: 3: 9: 9:40) - (*) Saturday Raid Time : (45) minutes
+(2007: 3: 9: 9:40) - (*) Sunday Raid Time : (60) minutes
+(2007: 3: 9: 9:40) - (*) Logging All Chat.
+(2007: 3: 9: 9:40) - (*) Slate Success Rate (25) percent
+(2007: 3: 9: 9:40) - (*) Rep<->Drop modifier: (5)
+(2007: 3: 9: 9:40) - (*) Security number memorized!
+(2007: 3: 9: 9:40) - (!) Reading AdminList.cfg...
+(2007: 3: 9: 9:40) - (!) Reading BannedList.cfg...
+(2007: 3: 9: 9:41) - (!) Reading settings file...
+(2007: 3: 9: 9:42) - (!) Try to Connect main-log-socket... Addr:192.168.0.211  Port:2500
+(2007: 3: 9: 9:42) - (!) Try to Connect Gate Server... Addr:192.168.0.211  Port:6502
+(2007: 3: 9: 9:42) - (!) Notify Message list file not found!...
+(2007: 3: 9: 9:42) - (!!!) Gate-socket connection counting...1
+(2007: 3: 9: 9:42) - (!) Try to connect sub-log-socket(0)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9: 9:42) - (!) Try to connect sub-log-socket(1)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9: 9:42) - (!) Try to connect sub-log-socket(2)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9: 9:42) - (!) Try to connect sub-log-socket(3)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9: 9:42) - (!) Try to connect sub-log-socket(4)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9: 9:42) - (!!!) Gate-socket connection counting...2
+(2007: 3: 9: 9:42) - (!) Try to connect sub-log-socket(5)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9: 9:42) - (!) Try to connect sub-log-socket(6)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9: 9:42) - (!) Try to connect sub-log-socket(7)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9: 9:42) - (!) Try to connect sub-log-socket(8)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9: 9:42) - (!!!) Gate-socket connection counting...3
+(2007: 3: 9: 9:42) - (!) Try to connect sub-log-socket(9)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9: 9:43) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9: 9:43) - (!) Reading configuration file...
+(2007: 3: 9: 9:43) - (*) Game server name : pkqiang
+(2007: 3: 9: 9:43) - (*) Game server address : 192.168.0.211
+(2007: 3: 9: 9:43) - (*) Game server port : 9901
+(2007: 3: 9: 9:43) - (*) Game server address : 192.168.0.211
+(2007: 3: 9: 9:43) - (*) Game server mode : INTERNET
+(2007: 3: 9: 9:43) - (*) Log server address : 192.168.0.211
+(2007: 3: 9: 9:43) - (*) Log server port : 2500
+(2007: 3: 9: 9:43) - (*) Gate server address : 192.168.0.211
+(2007: 3: 9: 9:43) - (*) Gate server port : 6502
+(2007: 3: 9: 9:43) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9: 9:43) - (*) Data file loading success.
+(2007: 3: 9: 9:43) - (!) Reading settings file...
+(2007: 3: 9: 9:43) - (*) Enemy Kill Mode: DEATHMATCH
+(2007: 3: 9: 9:43) - (*) Player gains (3) EK per enemy kill.
+(2007: 3: 9: 9:43) - (*) Primary drop rate: (1000)
+(2007: 3: 9: 9:43) - (*) Secondary drop rate: (850)
+(2007: 3: 9: 9:43) - (*) Administator vulnerability ignored.
+(2007: 3: 9: 9:43) - (*) Monday Raid Time : (10) minutes
+(2007: 3: 9: 9:43) - (*) Tuesday Raid Time : (10) minutes
+(2007: 3: 9: 9:43) - (*) Wednesday Raid Time : (10) minutes
+(2007: 3: 9: 9:43) - (*) Thursday Raid Time : (10) minutes
+(2007: 3: 9: 9:43) - (*) Friday Raid Time : (30) minutes
+(2007: 3: 9: 9:43) - (*) Saturday Raid Time : (45) minutes
+(2007: 3: 9: 9:43) - (*) Sunday Raid Time : (60) minutes
+(2007: 3: 9: 9:43) - (*) Logging All Chat.
+(2007: 3: 9: 9:43) - (*) Slate Success Rate (25) percent
+(2007: 3: 9: 9:43) - (*) Rep<->Drop modifier: (5)
+(2007: 3: 9: 9:43) - (*) Security number memorized!
+(2007: 3: 9: 9:43) - (!) Reading AdminList.cfg...
+(2007: 3: 9: 9:43) - (!) Reading BannedList.cfg...
+(2007: 3: 9: 9:44) - (!) Reading settings file...
+(2007: 3: 9: 9:48) - (!) Try to Connect main-log-socket... Addr:192.168.0.211  Port:2500
+(2007: 3: 9: 9:55) - (!) Try to Connect Gate Server... Addr:192.168.0.211  Port:6502
+(2007: 3: 9: 9:58) - (!) Notify Message list file not found!...
+(2007: 3: 9:10: 0) - (!!!) Gate-socket connection counting...1
+(2007: 3: 9:10: 0) - (!) Try to connect sub-log-socket(0)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10: 0) - (!) Try to connect sub-log-socket(1)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10: 0) - (!) Try to connect sub-log-socket(2)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10: 0) - (!) Try to connect sub-log-socket(3)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10: 0) - (!!!) Gate-socket connection counting...2
+(2007: 3: 9:10: 0) - (!) Try to connect sub-log-socket(4)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10: 0) - (!) Try to connect sub-log-socket(5)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10: 0) - (!) Try to connect sub-log-socket(6)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10: 0) - (!) Try to connect sub-log-socket(7)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10: 0) - (!) Try to connect sub-log-socket(8)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10: 0) - (!!!) Gate-socket connection counting...3
+(2007: 3: 9:10: 0) - (!) Try to connect sub-log-socket(9)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10: 0) - (!!!) Gate-socket connection counting...4
+(2007: 3: 9:10: 0) - (!!!) Gate-socket connection counting...5
+(2007: 3: 9:10: 0) - (!!!) Gate-socket connection counting...6
+(2007: 3: 9:10: 0) - (!!!) Gate-socket connection counting...7
+(2007: 3: 9:10:10) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:10:10) - (!) Reading configuration file...
+(2007: 3: 9:10:10) - (*) Game server name : pkqiang
+(2007: 3: 9:10:10) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:10:10) - (*) Game server port : 9901
+(2007: 3: 9:10:10) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:10:10) - (*) Game server mode : INTERNET
+(2007: 3: 9:10:10) - (*) Log server address : 192.168.0.211
+(2007: 3: 9:10:10) - (*) Log server port : 2500
+(2007: 3: 9:10:10) - (*) Gate server address : 192.168.0.211
+(2007: 3: 9:10:10) - (*) Gate server port : 6502
+(2007: 3: 9:10:10) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9:10:10) - (*) Data file loading success.
+(2007: 3: 9:10:10) - (!) Reading settings file...
+(2007: 3: 9:10:10) - (*) Enemy Kill Mode: DEATHMATCH
+(2007: 3: 9:10:10) - (*) Player gains (3) EK per enemy kill.
+(2007: 3: 9:10:10) - (*) Primary drop rate: (1000)
+(2007: 3: 9:10:10) - (*) Secondary drop rate: (850)
+(2007: 3: 9:10:10) - (*) Administator vulnerability ignored.
+(2007: 3: 9:10:10) - (*) Monday Raid Time : (10) minutes
+(2007: 3: 9:10:10) - (*) Tuesday Raid Time : (10) minutes
+(2007: 3: 9:10:10) - (*) Wednesday Raid Time : (10) minutes
+(2007: 3: 9:10:10) - (*) Thursday Raid Time : (10) minutes
+(2007: 3: 9:10:10) - (*) Friday Raid Time : (30) minutes
+(2007: 3: 9:10:10) - (*) Saturday Raid Time : (45) minutes
+(2007: 3: 9:10:10) - (*) Sunday Raid Time : (60) minutes
+(2007: 3: 9:10:10) - (*) Logging All Chat.
+(2007: 3: 9:10:10) - (*) Slate Success Rate (25) percent
+(2007: 3: 9:10:10) - (*) Rep<->Drop modifier: (5)
+(2007: 3: 9:10:10) - (*) Security number memorized!
+(2007: 3: 9:10:10) - (!) Reading AdminList.cfg...
+(2007: 3: 9:10:10) - (!) Reading BannedList.cfg...
+(2007: 3: 9:10:10) - (!) Reading settings file...
+(2007: 3: 9:10:10) - (!) Try to Connect main-log-socket... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:10) - (!) Try to Connect Gate Server... Addr:192.168.0.211  Port:6502
+(2007: 3: 9:10:10) - (!) Notify Message list file not found!...
+(2007: 3: 9:10:10) - (!) Try to connect sub-log-socket(0)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:10) - (!) Try to connect sub-log-socket(1)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:10) - (!) Try to connect sub-log-socket(2)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:10) - (!!!) Gate-socket connection counting...1
+(2007: 3: 9:10:10) - (!) Try to connect sub-log-socket(3)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:10) - (!) Try to connect sub-log-socket(4)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:10) - (!) Try to connect sub-log-socket(5)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:10) - (!) Try to connect sub-log-socket(6)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:10) - (!!!) Gate-socket connection counting...2
+(2007: 3: 9:10:10) - (!) Try to connect sub-log-socket(7)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:10) - (!) Try to connect sub-log-socket(8)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:10) - (!) Try to connect sub-log-socket(9)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:10) - (!!!) Gate-socket connection counting...3
+(2007: 3: 9:10:10) - (!!!) Gate-socket connection counting...4
+(2007: 3: 9:10:10) - (!!!) Gate-socket connection counting...5
+(2007: 3: 9:10:10) - (!!!) Gate-socket connection counting...6
+(2007: 3: 9:10:10) - (!!!) Gate-socket connection counting...7
+(2007: 3: 9:10:10) - (!!!) Gate-socket connection counting...8
+(2007: 3: 9:10:10) - (!!!) Gate-socket connection counting...9
+(2007: 3: 9:10:12) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:10:12) - (!) Reading configuration file...
+(2007: 3: 9:10:12) - (*) Game server name : pkqiang
+(2007: 3: 9:10:12) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:10:12) - (*) Game server port : 9901
+(2007: 3: 9:10:12) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:10:12) - (*) Game server mode : INTERNET
+(2007: 3: 9:10:12) - (*) Log server address : 192.168.0.211
+(2007: 3: 9:10:12) - (*) Log server port : 2500
+(2007: 3: 9:10:12) - (*) Gate server address : 192.168.0.211
+(2007: 3: 9:10:12) - (*) Gate server port : 6502
+(2007: 3: 9:10:12) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9:10:12) - (*) Data file loading success.
+(2007: 3: 9:10:12) - (!) Reading settings file...
+(2007: 3: 9:10:12) - (*) Enemy Kill Mode: DEATHMATCH
+(2007: 3: 9:10:12) - (*) Player gains (3) EK per enemy kill.
+(2007: 3: 9:10:12) - (*) Primary drop rate: (1000)
+(2007: 3: 9:10:12) - (*) Secondary drop rate: (850)
+(2007: 3: 9:10:12) - (*) Administator vulnerability ignored.
+(2007: 3: 9:10:12) - (*) Monday Raid Time : (10) minutes
+(2007: 3: 9:10:12) - (*) Tuesday Raid Time : (10) minutes
+(2007: 3: 9:10:12) - (*) Wednesday Raid Time : (10) minutes
+(2007: 3: 9:10:12) - (*) Thursday Raid Time : (10) minutes
+(2007: 3: 9:10:12) - (*) Friday Raid Time : (30) minutes
+(2007: 3: 9:10:12) - (*) Saturday Raid Time : (45) minutes
+(2007: 3: 9:10:12) - (*) Sunday Raid Time : (60) minutes
+(2007: 3: 9:10:12) - (*) Logging All Chat.
+(2007: 3: 9:10:12) - (*) Slate Success Rate (25) percent
+(2007: 3: 9:10:12) - (*) Rep<->Drop modifier: (5)
+(2007: 3: 9:10:12) - (*) Security number memorized!
+(2007: 3: 9:10:12) - (!) Reading AdminList.cfg...
+(2007: 3: 9:10:12) - (!) Reading BannedList.cfg...
+(2007: 3: 9:10:12) - (!) Reading settings file...
+(2007: 3: 9:10:12) - (!) Try to Connect main-log-socket... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:12) - (!) Try to Connect Gate Server... Addr:192.168.0.211  Port:6502
+(2007: 3: 9:10:12) - (!) Notify Message list file not found!...
+(2007: 3: 9:10:12) - (!) Try to connect sub-log-socket(0)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:12) - (!) Try to connect sub-log-socket(1)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:12) - (!!!) Gate-socket connection counting...1
+(2007: 3: 9:10:12) - (!) Try to connect sub-log-socket(2)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:12) - (!) Try to connect sub-log-socket(3)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:12) - (!) Try to connect sub-log-socket(4)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:12) - (!) Try to connect sub-log-socket(5)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:12) - (!!!) Gate-socket connection counting...2
+(2007: 3: 9:10:12) - (!) Try to connect sub-log-socket(6)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:12) - (!) Try to connect sub-log-socket(7)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:12) - (!!!) Gate-socket connection counting...3
+(2007: 3: 9:10:12) - (!) Try to connect sub-log-socket(8)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:12) - (!) Try to connect sub-log-socket(9)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:13) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:10:13) - (!) Reading configuration file...
+(2007: 3: 9:10:13) - (*) Game server name : pkqiang
+(2007: 3: 9:10:13) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:10:13) - (*) Game server port : 9901
+(2007: 3: 9:10:13) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:10:13) - (*) Game server mode : INTERNET
+(2007: 3: 9:10:13) - (*) Log server address : 192.168.0.211
+(2007: 3: 9:10:13) - (*) Log server port : 2500
+(2007: 3: 9:10:13) - (*) Gate server address : 192.168.0.211
+(2007: 3: 9:10:13) - (*) Gate server port : 6502
+(2007: 3: 9:10:13) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9:10:13) - (*) Data file loading success.
+(2007: 3: 9:10:13) - (!) Reading settings file...
+(2007: 3: 9:10:13) - (*) Enemy Kill Mode: DEATHMATCH
+(2007: 3: 9:10:13) - (*) Player gains (3) EK per enemy kill.
+(2007: 3: 9:10:13) - (*) Primary drop rate: (1000)
+(2007: 3: 9:10:13) - (*) Secondary drop rate: (850)
+(2007: 3: 9:10:13) - (*) Administator vulnerability ignored.
+(2007: 3: 9:10:13) - (*) Monday Raid Time : (10) minutes
+(2007: 3: 9:10:13) - (*) Tuesday Raid Time : (10) minutes
+(2007: 3: 9:10:13) - (*) Wednesday Raid Time : (10) minutes
+(2007: 3: 9:10:13) - (*) Thursday Raid Time : (10) minutes
+(2007: 3: 9:10:13) - (*) Friday Raid Time : (30) minutes
+(2007: 3: 9:10:13) - (*) Saturday Raid Time : (45) minutes
+(2007: 3: 9:10:13) - (*) Sunday Raid Time : (60) minutes
+(2007: 3: 9:10:13) - (*) Logging All Chat.
+(2007: 3: 9:10:13) - (*) Slate Success Rate (25) percent
+(2007: 3: 9:10:13) - (*) Rep<->Drop modifier: (5)
+(2007: 3: 9:10:13) - (*) Security number memorized!
+(2007: 3: 9:10:13) - (!) Reading AdminList.cfg...
+(2007: 3: 9:10:13) - (!) Reading BannedList.cfg...
+(2007: 3: 9:10:13) - (!) Reading settings file...
+(2007: 3: 9:10:13) - (!) Try to Connect main-log-socket... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:13) - (!) Try to Connect Gate Server... Addr:192.168.0.211  Port:6502
+(2007: 3: 9:10:13) - (!) Notify Message list file not found!...
+(2007: 3: 9:10:13) - (!) Try to connect sub-log-socket(0)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:13) - (!) Try to connect sub-log-socket(1)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:13) - (!) Try to connect sub-log-socket(2)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:13) - (!!!) Gate-socket connection counting...1
+(2007: 3: 9:10:13) - (!) Try to connect sub-log-socket(3)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:13) - (!) Try to connect sub-log-socket(4)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:13) - (!) Try to connect sub-log-socket(5)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:13) - (!) Try to connect sub-log-socket(6)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:13) - (!!!) Gate-socket connection counting...2
+(2007: 3: 9:10:13) - (!) Try to connect sub-log-socket(7)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:13) - (!) Try to connect sub-log-socket(8)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:13) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:10:14) - (!) Reading configuration file...
+(2007: 3: 9:10:14) - (*) Game server name : pkqiang
+(2007: 3: 9:10:14) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:10:14) - (*) Game server port : 9901
+(2007: 3: 9:10:14) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:10:14) - (*) Game server mode : INTERNET
+(2007: 3: 9:10:14) - (*) Log server address : 192.168.0.211
+(2007: 3: 9:10:14) - (*) Log server port : 2500
+(2007: 3: 9:10:14) - (*) Gate server address : 192.168.0.211
+(2007: 3: 9:10:14) - (*) Gate server port : 6502
+(2007: 3: 9:10:14) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9:10:14) - (*) Data file loading success.
+(2007: 3: 9:10:14) - (!) Reading settings file...
+(2007: 3: 9:10:14) - (*) Enemy Kill Mode: DEATHMATCH
+(2007: 3: 9:10:14) - (*) Player gains (3) EK per enemy kill.
+(2007: 3: 9:10:14) - (*) Primary drop rate: (1000)
+(2007: 3: 9:10:14) - (*) Secondary drop rate: (850)
+(2007: 3: 9:10:14) - (*) Administator vulnerability ignored.
+(2007: 3: 9:10:14) - (*) Monday Raid Time : (10) minutes
+(2007: 3: 9:10:14) - (*) Tuesday Raid Time : (10) minutes
+(2007: 3: 9:10:14) - (*) Wednesday Raid Time : (10) minutes
+(2007: 3: 9:10:14) - (*) Thursday Raid Time : (10) minutes
+(2007: 3: 9:10:14) - (*) Friday Raid Time : (30) minutes
+(2007: 3: 9:10:14) - (*) Saturday Raid Time : (45) minutes
+(2007: 3: 9:10:14) - (*) Sunday Raid Time : (60) minutes
+(2007: 3: 9:10:14) - (*) Logging All Chat.
+(2007: 3: 9:10:14) - (*) Slate Success Rate (25) percent
+(2007: 3: 9:10:14) - (*) Rep<->Drop modifier: (5)
+(2007: 3: 9:10:14) - (*) Security number memorized!
+(2007: 3: 9:10:14) - (!) Reading AdminList.cfg...
+(2007: 3: 9:10:14) - (!) Reading BannedList.cfg...
+(2007: 3: 9:10:14) - (!) Reading settings file...
+(2007: 3: 9:10:14) - (!) Try to Connect main-log-socket... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:14) - (!) Try to Connect Gate Server... Addr:192.168.0.211  Port:6502
+(2007: 3: 9:10:14) - (!) Notify Message list file not found!...
+(2007: 3: 9:10:14) - (!) Try to connect sub-log-socket(0)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:14) - (!) Try to connect sub-log-socket(1)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:14) - (!) Try to connect sub-log-socket(2)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:14) - (!!!) Gate-socket connection counting...1
+(2007: 3: 9:10:14) - (!) Try to connect sub-log-socket(3)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:14) - (!) Try to connect sub-log-socket(4)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:14) - (!) Try to connect sub-log-socket(5)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:14) - (!) Try to connect sub-log-socket(6)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:14) - (!!!) Gate-socket connection counting...2
+(2007: 3: 9:10:14) - (!) Try to connect sub-log-socket(7)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:14) - (!) Try to connect sub-log-socket(8)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:14) - (!) Try to connect sub-log-socket(9)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:14) - (!!!) Gate-socket connection counting...3
+(2007: 3: 9:10:14) - (!!!) Gate-socket connection counting...4
+(2007: 3: 9:10:19) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:10:19) - (!) Reading configuration file...
+(2007: 3: 9:10:19) - (*) Game server name : pkqiang
+(2007: 3: 9:10:19) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:10:19) - (*) Game server port : 9901
+(2007: 3: 9:10:19) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:10:19) - (*) Game server mode : INTERNET
+(2007: 3: 9:10:19) - (*) Log server address : 192.168.0.211
+(2007: 3: 9:10:19) - (*) Log server port : 2500
+(2007: 3: 9:10:19) - (*) Gate server address : 192.168.0.211
+(2007: 3: 9:10:19) - (*) Gate server port : 6502
+(2007: 3: 9:10:19) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9:10:19) - (*) Data file loading success.
+(2007: 3: 9:10:19) - (!) Reading settings file...
+(2007: 3: 9:10:19) - (*) Enemy Kill Mode: DEATHMATCH
+(2007: 3: 9:10:19) - (*) Player gains (3) EK per enemy kill.
+(2007: 3: 9:10:19) - (*) Primary drop rate: (1000)
+(2007: 3: 9:10:19) - (*) Secondary drop rate: (850)
+(2007: 3: 9:10:19) - (*) Administator vulnerability ignored.
+(2007: 3: 9:10:19) - (*) Monday Raid Time : (10) minutes
+(2007: 3: 9:10:19) - (*) Tuesday Raid Time : (10) minutes
+(2007: 3: 9:10:19) - (*) Wednesday Raid Time : (10) minutes
+(2007: 3: 9:10:19) - (*) Thursday Raid Time : (10) minutes
+(2007: 3: 9:10:19) - (*) Friday Raid Time : (30) minutes
+(2007: 3: 9:10:19) - (*) Saturday Raid Time : (45) minutes
+(2007: 3: 9:10:19) - (*) Sunday Raid Time : (60) minutes
+(2007: 3: 9:10:19) - (*) Logging All Chat.
+(2007: 3: 9:10:19) - (*) Slate Success Rate (25) percent
+(2007: 3: 9:10:19) - (*) Rep<->Drop modifier: (5)
+(2007: 3: 9:10:19) - (*) Security number memorized!
+(2007: 3: 9:10:19) - (!) Reading AdminList.cfg...
+(2007: 3: 9:10:19) - (!) Reading BannedList.cfg...
+(2007: 3: 9:10:19) - (!) Reading settings file...
+(2007: 3: 9:10:19) - (!) Try to Connect main-log-socket... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:19) - (!) Try to Connect Gate Server... Addr:192.168.0.211  Port:6502
+(2007: 3: 9:10:19) - (!) Notify Message list file not found!...
+(2007: 3: 9:10:19) - (!) Try to connect sub-log-socket(0)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:19) - (!) Try to connect sub-log-socket(1)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:19) - (!) Try to connect sub-log-socket(2)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:19) - (!!!) Gate-socket connection counting...1
+(2007: 3: 9:10:19) - (!) Try to connect sub-log-socket(3)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:19) - (!) Try to connect sub-log-socket(4)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:19) - (!) Try to connect sub-log-socket(5)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:19) - (!) Try to connect sub-log-socket(6)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:19) - (!!!) Gate-socket connection counting...2
+(2007: 3: 9:10:19) - (!) Try to connect sub-log-socket(7)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:19) - (!) Try to connect sub-log-socket(8)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:19) - (!) Try to connect sub-log-socket(9)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:19) - (!!!) Gate-socket connection counting...3
+(2007: 3: 9:10:19) - (!!!) Gate-socket connection counting...4
+(2007: 3: 9:10:19) - (!!!) Gate-socket connection counting...5
+(2007: 3: 9:10:19) - (!!!) Gate-socket connection counting...6
+(2007: 3: 9:10:19) - (!!!) Gate-socket connection counting...7
+(2007: 3: 9:10:20) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:10:20) - (!) Reading configuration file...
+(2007: 3: 9:10:21) - (*) Game server name : pkqiang
+(2007: 3: 9:10:21) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:10:21) - (*) Game server port : 9901
+(2007: 3: 9:10:21) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:10:21) - (*) Game server mode : INTERNET
+(2007: 3: 9:10:21) - (*) Log server address : 192.168.0.211
+(2007: 3: 9:10:21) - (*) Log server port : 2500
+(2007: 3: 9:10:21) - (*) Gate server address : 192.168.0.211
+(2007: 3: 9:10:21) - (*) Gate server port : 6502
+(2007: 3: 9:10:21) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9:10:24) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:10:24) - (!) Reading configuration file...
+(2007: 3: 9:10:24) - (*) Game server name : pkqiang
+(2007: 3: 9:10:24) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:10:24) - (*) Game server port : 9901
+(2007: 3: 9:10:24) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:10:24) - (*) Game server mode : INTERNET
+(2007: 3: 9:10:24) - (*) Log server address : 192.168.0.211
+(2007: 3: 9:10:24) - (*) Log server port : 2500
+(2007: 3: 9:10:24) - (*) Gate server address : 192.168.0.211
+(2007: 3: 9:10:24) - (*) Gate server port : 6502
+(2007: 3: 9:10:24) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9:10:24) - (*) 数据读取成功.
+(2007: 3: 9:10:24) - (!) Reading settings file...
+(2007: 3: 9:10:24) - (*) Enemy Kill Mode: DEATHMATCH
+(2007: 3: 9:10:24) - (*) Player gains (3) EK per enemy kill.
+(2007: 3: 9:10:24) - (*) Primary drop rate: (1000)
+(2007: 3: 9:10:24) - (*) Secondary drop rate: (850)
+(2007: 3: 9:10:24) - (*) Administator vulnerability ignored.
+(2007: 3: 9:10:24) - (*) Monday Raid Time : (10) minutes
+(2007: 3: 9:10:24) - (*) Tuesday Raid Time : (10) minutes
+(2007: 3: 9:10:24) - (*) Wednesday Raid Time : (10) minutes
+(2007: 3: 9:10:24) - (*) Thursday Raid Time : (10) minutes
+(2007: 3: 9:10:24) - (*) Friday Raid Time : (30) minutes
+(2007: 3: 9:10:24) - (*) Saturday Raid Time : (45) minutes
+(2007: 3: 9:10:24) - (*) Sunday Raid Time : (60) minutes
+(2007: 3: 9:10:24) - (*) Logging All Chat.
+(2007: 3: 9:10:24) - (*) Slate Success Rate (25) percent
+(2007: 3: 9:10:24) - (*) Rep<->Drop modifier: (5)
+(2007: 3: 9:10:24) - (*) Security number memorized!
+(2007: 3: 9:10:24) - (!) Reading AdminList.cfg...
+(2007: 3: 9:10:24) - (!) Reading BannedList.cfg...
+(2007: 3: 9:10:24) - (!) Reading settings file...
+(2007: 3: 9:10:24) - (!) Try to Connect main-log-socket... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:24) - (!) Try to Connect Gate Server... Addr:192.168.0.211  Port:6502
+(2007: 3: 9:10:24) - (!) Notify Message list file not found!...
+(2007: 3: 9:10:24) - (!) Try to connect sub-log-socket(0)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:24) - (!) Try to connect sub-log-socket(1)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:24) - (!) Try to connect sub-log-socket(2)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:24) - (!!!) Gate-socket connection counting...1
+(2007: 3: 9:10:24) - (!) Try to connect sub-log-socket(3)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:24) - (!) Try to connect sub-log-socket(4)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:24) - (!) Try to connect sub-log-socket(5)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:24) - (!) Try to connect sub-log-socket(6)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:24) - (!!!) Gate-socket connection counting...2
+(2007: 3: 9:10:24) - (!) Try to connect sub-log-socket(7)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:24) - (!) Try to connect sub-log-socket(8)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:24) - (!) Try to connect sub-log-socket(9)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:24) - (!!!) Gate-socket connection counting...3
+(2007: 3: 9:10:24) - (!!!) Gate-socket connection counting...4
+(2007: 3: 9:10:24) - (!!!) Gate-socket connection counting...5
+(2007: 3: 9:10:24) - (!!!) Gate-socket connection counting...6
+(2007: 3: 9:10:24) - (!!!) Gate-socket connection counting...7
+(2007: 3: 9:10:24) - (!!!) Gate-socket connection counting...8
+(2007: 3: 9:10:24) - (!!!) Gate-socket connection counting...9
+(2007: 3: 9:10:24) - (!!!) Gate-socket connection counting...10
+(2007: 3: 9:10:25) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:10:25) - (!) Reading configuration file...
+(2007: 3: 9:10:29) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:10:29) - (!) 读取配置文件中...
+(2007: 3: 9:10:29) - (*) 服务器名称 : pkqiang
+(2007: 3: 9:10:29) - (*) 服务器地址 : 192.168.0.211
+(2007: 3: 9:10:29) - (*) 服务器端口 : 9901
+(2007: 3: 9:10:29) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:10:29) - (*) Game server mode : INTERNET
+(2007: 3: 9:10:29) - (*) Log server address : 192.168.0.211
+(2007: 3: 9:10:29) - (*) Log server port : 2500
+(2007: 3: 9:10:29) - (*) Gate server address : 192.168.0.211
+(2007: 3: 9:10:29) - (*) Gate server port : 6502
+(2007: 3: 9:10:29) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9:10:29) - (*) 数据读取成功.
+(2007: 3: 9:10:29) - (!) Reading settings file...
+(2007: 3: 9:10:29) - (*) Enemy Kill Mode: DEATHMATCH
+(2007: 3: 9:10:29) - (*) Player gains (3) EK per enemy kill.
+(2007: 3: 9:10:29) - (*) Primary drop rate: (1000)
+(2007: 3: 9:10:29) - (*) Secondary drop rate: (850)
+(2007: 3: 9:10:29) - (*) Administator vulnerability ignored.
+(2007: 3: 9:10:29) - (*) Monday Raid Time : (10) minutes
+(2007: 3: 9:10:29) - (*) Tuesday Raid Time : (10) minutes
+(2007: 3: 9:10:29) - (*) Wednesday Raid Time : (10) minutes
+(2007: 3: 9:10:29) - (*) Thursday Raid Time : (10) minutes
+(2007: 3: 9:10:29) - (*) Friday Raid Time : (30) minutes
+(2007: 3: 9:10:29) - (*) Saturday Raid Time : (45) minutes
+(2007: 3: 9:10:29) - (*) Sunday Raid Time : (60) minutes
+(2007: 3: 9:10:29) - (*) Logging All Chat.
+(2007: 3: 9:10:29) - (*) Slate Success Rate (25) percent
+(2007: 3: 9:10:29) - (*) Rep<->Drop modifier: (5)
+(2007: 3: 9:10:29) - (*) Security number memorized!
+(2007: 3: 9:10:29) - (!) Reading AdminList.cfg...
+(2007: 3: 9:10:29) - (!) Reading BannedList.cfg...
+(2007: 3: 9:10:29) - (!) Reading settings file...
+(2007: 3: 9:10:29) - (!) Try to Connect main-log-socket... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:29) - (!) Try to Connect Gate Server... Addr:192.168.0.211  Port:6502
+(2007: 3: 9:10:29) - (!) Notify Message list file not found!...
+(2007: 3: 9:10:29) - (!) Try to connect sub-log-socket(0)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:29) - (!) Try to connect sub-log-socket(1)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:29) - (!!!) Gate-socket connection counting...1
+(2007: 3: 9:10:29) - (!) Try to connect sub-log-socket(2)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:29) - (!) Try to connect sub-log-socket(3)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:29) - (!) Try to connect sub-log-socket(4)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:29) - (!) Try to connect sub-log-socket(5)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:29) - (!) Try to connect sub-log-socket(6)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:29) - (!!!) Gate-socket connection counting...2
+(2007: 3: 9:10:29) - (!) Try to connect sub-log-socket(7)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:29) - (!) Try to connect sub-log-socket(8)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:29) - (!) Try to connect sub-log-socket(9)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:29) - (!!!) Gate-socket connection counting...3
+(2007: 3: 9:10:29) - (!!!) Gate-socket connection counting...4
+(2007: 3: 9:10:31) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:10:31) - (!) 读取配置文件中...
+(2007: 3: 9:10:31) - (*) 服务器名称 : pkqiang
+(2007: 3: 9:10:31) - (*) 服务器地址 : 192.168.0.211
+(2007: 3: 9:10:31) - (*) 服务器端口 : 9901
+(2007: 3: 9:10:31) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:10:31) - (*) Game server mode : INTERNET
+(2007: 3: 9:10:31) - (*) 日志服务器地址 : 192.168.0.211
+(2007: 3: 9:10:31) - (*) 日志服务器端口 : 2500
+(2007: 3: 9:10:31) - (*) 网关服务器地址 : 192.168.0.211
+(2007: 3: 9:10:31) - (*) 网关服务器地址 : 6502
+(2007: 3: 9:10:31) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9:10:31) - (*) 数据读取成功.
+(2007: 3: 9:10:31) - (!) Reading settings file...
+(2007: 3: 9:10:31) - (*) Enemy Kill Mode: DEATHMATCH
+(2007: 3: 9:10:31) - (*) Player gains (3) EK per enemy kill.
+(2007: 3: 9:10:31) - (*) Primary drop rate: (1000)
+(2007: 3: 9:10:31) - (*) Secondary drop rate: (850)
+(2007: 3: 9:10:31) - (*) Administator vulnerability ignored.
+(2007: 3: 9:10:31) - (*) Monday Raid Time : (10) minutes
+(2007: 3: 9:10:31) - (*) Tuesday Raid Time : (10) minutes
+(2007: 3: 9:10:31) - (*) Wednesday Raid Time : (10) minutes
+(2007: 3: 9:10:31) - (*) Thursday Raid Time : (10) minutes
+(2007: 3: 9:10:31) - (*) Friday Raid Time : (30) minutes
+(2007: 3: 9:10:31) - (*) Saturday Raid Time : (45) minutes
+(2007: 3: 9:10:31) - (*) Sunday Raid Time : (60) minutes
+(2007: 3: 9:10:31) - (*) Logging All Chat.
+(2007: 3: 9:10:31) - (*) Slate Success Rate (25) percent
+(2007: 3: 9:10:31) - (*) Rep<->Drop modifier: (5)
+(2007: 3: 9:10:31) - (*) Security number memorized!
+(2007: 3: 9:10:31) - (!) Reading AdminList.cfg...
+(2007: 3: 9:10:31) - (!) Reading BannedList.cfg...
+(2007: 3: 9:10:31) - (!) Reading settings file...
+(2007: 3: 9:10:31) - (!) Try to Connect main-log-socket... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:31) - (!) Try to Connect Gate Server... Addr:192.168.0.211  Port:6502
+(2007: 3: 9:10:31) - (!) Notify Message list file not found!...
+(2007: 3: 9:10:31) - (!) Try to connect sub-log-socket(0)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:31) - (!) Try to connect sub-log-socket(1)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:31) - (!) Try to connect sub-log-socket(2)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:31) - (!!!) Gate-socket connection counting...1
+(2007: 3: 9:10:31) - (!) Try to connect sub-log-socket(3)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:31) - (!) Try to connect sub-log-socket(4)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:31) - (!) Try to connect sub-log-socket(5)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:31) - (!) Try to connect sub-log-socket(6)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:31) - (!!!) Gate-socket connection counting...2
+(2007: 3: 9:10:31) - (!) Try to connect sub-log-socket(7)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:31) - (!) Try to connect sub-log-socket(8)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:31) - (!) Try to connect sub-log-socket(9)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:10:31) - (!!!) Gate-socket connection counting...3
+(2007: 3: 9:10:31) - (!!!) Gate-socket connection counting...4
+(2007: 3: 9:10:31) - (!!!) Gate-socket connection counting...5
+(2007: 3: 9:10:31) - (!!!) Gate-socket connection counting...6
+(2007: 3: 9:10:32) - (!!!) Gate-socket connection counting...7
+(2007: 3: 9:10:32) - (!!!) Gate-socket connection counting...8
+(2007: 3: 9:13:20) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:13:21) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:13:21) - (!) 读取配置文件中...
+(2007: 3: 9:13:21) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:13:21) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:13:22) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:13:22) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:13:23) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:13:41) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:13:41) - (!) 读取配置文件中...
+(2007: 3: 9:13:41) - (*) 服务器名称 : pkqiang
+(2007: 3: 9:13:41) - (*) 服务器地址 : 192.168.0.211
+(2007: 3: 9:13:41) - (*) 服务器端口 : 9901
+(2007: 3: 9:13:41) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:13:41) - (*) Game server mode : INTERNET
+(2007: 3: 9:13:41) - (*) 日志服务器地址 : 192.168.0.211
+(2007: 3: 9:13:41) - (*) 日志服务器端口 : 2500
+(2007: 3: 9:13:41) - (*) 网关服务器地址 : 192.168.0.211
+(2007: 3: 9:13:41) - (*) 网关服务器地址 : 6502
+(2007: 3: 9:13:41) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9:13:41) - (*) 数据读取成功.
+(2007: 3: 9:13:44) - (!) Reading settings file...
+(2007: 3: 9:13:44) - (*) Enemy Kill Mode: DEATHMATCH
+(2007: 3: 9:13:44) - (*) Player gains (3) EK per enemy kill.
+(2007: 3: 9:13:44) - (*) Primary drop rate: (1000)
+(2007: 3: 9:13:44) - (*) Secondary drop rate: (850)
+(2007: 3: 9:13:44) - (*) Administator vulnerability ignored.
+(2007: 3: 9:13:44) - (*) Monday Raid Time : (10) minutes
+(2007: 3: 9:13:44) - (*) Tuesday Raid Time : (10) minutes
+(2007: 3: 9:13:44) - (*) Wednesday Raid Time : (10) minutes
+(2007: 3: 9:13:44) - (*) Thursday Raid Time : (10) minutes
+(2007: 3: 9:13:44) - (*) Friday Raid Time : (30) minutes
+(2007: 3: 9:13:44) - (*) Saturday Raid Time : (45) minutes
+(2007: 3: 9:13:44) - (*) Sunday Raid Time : (60) minutes
+(2007: 3: 9:13:44) - (*) Logging All Chat.
+(2007: 3: 9:13:44) - (*) Slate Success Rate (25) percent
+(2007: 3: 9:13:44) - (*) Rep<->Drop modifier: (5)
+(2007: 3: 9:13:44) - (*) Security number memorized!
+(2007: 3: 9:13:44) - (!) Reading AdminList.cfg...
+(2007: 3: 9:13:44) - (!) Reading BannedList.cfg...
+(2007: 3: 9:13:44) - (!) Reading settings file...
+(2007: 3: 9:13:49) - (!) Try to Connect main-log-socket... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:13:55) - (!) Try to Connect Gate Server... Addr:192.168.0.211  Port:6502
+(2007: 3: 9:13:56) - (!) Notify Message list file not found!...
+(2007: 3: 9:14: 4) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:14: 4) - (!) 读取配置文件中...
+(2007: 3: 9:14: 4) - (*) 服务器名称 : pkqiang
+(2007: 3: 9:14: 4) - (*) 服务器地址 : 192.168.0.211
+(2007: 3: 9:14: 4) - (*) 服务器端口 : 9901
+(2007: 3: 9:14: 4) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:14: 4) - (*) Game server mode : INTERNET
+(2007: 3: 9:14: 4) - (*) 日志服务器地址 : 192.168.0.211
+(2007: 3: 9:14: 4) - (*) 日志服务器端口 : 2500
+(2007: 3: 9:14: 4) - (*) 网关服务器地址 : 192.168.0.211
+(2007: 3: 9:14: 4) - (*) 网关服务器地址 : 6502
+(2007: 3: 9:14: 4) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9:14: 4) - (*) 数据读取成功.
+(2007: 3: 9:14: 4) - (!) Reading settings file...
+(2007: 3: 9:14: 4) - (*) Enemy Kill Mode: DEATHMATCH
+(2007: 3: 9:14: 4) - (*) Player gains (3) EK per enemy kill.
+(2007: 3: 9:14: 4) - (*) Primary drop rate: (1000)
+(2007: 3: 9:14: 4) - (*) Secondary drop rate: (850)
+(2007: 3: 9:14: 4) - (*) Administator vulnerability ignored.
+(2007: 3: 9:14: 4) - (*) Monday Raid Time : (10) minutes
+(2007: 3: 9:14: 4) - (*) Tuesday Raid Time : (10) minutes
+(2007: 3: 9:14: 4) - (*) Wednesday Raid Time : (10) minutes
+(2007: 3: 9:14: 4) - (*) Thursday Raid Time : (10) minutes
+(2007: 3: 9:14: 4) - (*) Friday Raid Time : (30) minutes
+(2007: 3: 9:14: 4) - (*) Saturday Raid Time : (45) minutes
+(2007: 3: 9:14: 4) - (*) Sunday Raid Time : (60) minutes
+(2007: 3: 9:14: 4) - (*) Logging All Chat.
+(2007: 3: 9:14: 4) - (*) Slate Success Rate (25) percent
+(2007: 3: 9:14: 4) - (*) Rep<->Drop modifier: (5)
+(2007: 3: 9:14: 4) - (*) Security number memorized!
+(2007: 3: 9:14: 4) - (!) Reading AdminList.cfg...
+(2007: 3: 9:14: 4) - (!) Reading BannedList.cfg...
+(2007: 3: 9:14: 4) - (!) Reading settings file...
+(2007: 3: 9:14: 4) - (!) Try to Connect main-log-socket... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:14: 4) - (!) Try to Connect Gate Server... Addr:192.168.0.211  Port:6502
+(2007: 3: 9:14: 4) - (!) Notify Message list file not found!...
+(2007: 3: 9:14: 4) - (!) Try to connect sub-log-socket(0)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:14: 4) - (!) Try to connect sub-log-socket(1)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:14: 4) - (!) Try to connect sub-log-socket(2)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:14: 4) - (!!!) Gate-socket connection counting...1
+(2007: 3: 9:14: 4) - (!) Try to connect sub-log-socket(3)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:14: 4) - (!) Try to connect sub-log-socket(4)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:14: 4) - (!) Try to connect sub-log-socket(5)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:14: 4) - (!) Try to connect sub-log-socket(6)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:14: 4) - (!!!) Gate-socket connection counting...2
+(2007: 3: 9:14: 4) - (!) Try to connect sub-log-socket(7)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:14: 4) - (!) Try to connect sub-log-socket(8)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:14: 4) - (!) Try to connect sub-log-socket(9)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:14: 4) - (!!!) Gate-socket connection counting...3
+(2007: 3: 9:14: 4) - (!!!) Gate-socket connection counting...4
+(2007: 3: 9:14: 4) - (!!!) Gate-socket connection counting...5
+(2007: 3: 9:14:11) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:14:11) - (!) 读取配置文件中...
+(2007: 3: 9:14:11) - (*) 服务器名称 : pkqiang
+(2007: 3: 9:14:11) - (*) 服务器地址 : 192.168.0.211
+(2007: 3: 9:14:11) - (*) 服务器端口 : 9901
+(2007: 3: 9:14:11) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:14:11) - (*) Game server mode : INTERNET
+(2007: 3: 9:14:11) - (*) 日志服务器地址 : 192.168.0.211
+(2007: 3: 9:14:11) - (*) 日志服务器端口 : 2500
+(2007: 3: 9:14:11) - (*) 网关服务器地址 : 192.168.0.211
+(2007: 3: 9:14:11) - (*) 网关服务器地址 : 6502
+(2007: 3: 9:14:11) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9:14:13) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:14:13) - (!) 读取配置文件中...
+(2007: 3: 9:14:13) - (*) 服务器名称 : pkqiang
+(2007: 3: 9:14:13) - (*) 服务器地址 : 192.168.0.211
+(2007: 3: 9:14:13) - (*) 服务器端口 : 9901
+(2007: 3: 9:14:13) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:14:13) - (*) Game server mode : INTERNET
+(2007: 3: 9:14:13) - (*) 日志服务器地址 : 192.168.0.211
+(2007: 3: 9:14:13) - (*) 日志服务器端口 : 2500
+(2007: 3: 9:14:13) - (*) 网关服务器地址 : 192.168.0.211
+(2007: 3: 9:14:13) - (*) 网关服务器地址 : 6502
+(2007: 3: 9:14:13) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9:14:21) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:14:21) - (!) 读取配置文件中...
+(2007: 3: 9:14:21) - (*) 服务器名称 : pkqiang
+(2007: 3: 9:14:21) - (*) 服务器地址 : 192.168.0.211
+(2007: 3: 9:14:21) - (*) 服务器端口 : 9901
+(2007: 3: 9:14:21) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:14:21) - (*) Game server mode : INTERNET
+(2007: 3: 9:14:21) - (*) 日志服务器地址 : 192.168.0.211
+(2007: 3: 9:14:21) - (*) 日志服务器端口 : 2500
+(2007: 3: 9:14:21) - (*) 网关服务器地址 : 192.168.0.211
+(2007: 3: 9:14:21) - (*) 网关服务器地址 : 6502
+(2007: 3: 9:14:21) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9:14:22) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:14:22) - (!) 读取配置文件中...
+(2007: 3: 9:14:22) - (*) 服务器名称 : pkqiang
+(2007: 3: 9:14:22) - (*) 服务器地址 : 192.168.0.211
+(2007: 3: 9:14:22) - (*) 服务器端口 : 9901
+(2007: 3: 9:14:22) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:14:22) - (*) Game server mode : INTERNET
+(2007: 3: 9:14:22) - (*) 日志服务器地址 : 192.168.0.211
+(2007: 3: 9:14:22) - (*) 日志服务器端口 : 2500
+(2007: 3: 9:14:22) - (*) 网关服务器地址 : 192.168.0.211
+(2007: 3: 9:14:22) - (*) 网关服务器地址 : 6502
+(2007: 3: 9:14:22) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9:14:23) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:14:23) - (!) 读取配置文件中...
+(2007: 3: 9:14:23) - (*) 服务器名称 : pkqiang
+(2007: 3: 9:14:23) - (*) 服务器地址 : 192.168.0.211
+(2007: 3: 9:14:23) - (*) 服务器端口 : 9901
+(2007: 3: 9:14:23) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:14:23) - (*) Game server mode : INTERNET
+(2007: 3: 9:14:23) - (*) 日志服务器地址 : 192.168.0.211
+(2007: 3: 9:14:23) - (*) 日志服务器端口 : 2500
+(2007: 3: 9:14:23) - (*) 网关服务器地址 : 192.168.0.211
+(2007: 3: 9:14:23) - (*) 网关服务器地址 : 6502
+(2007: 3: 9:14:23) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9:14:37) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:14:37) - (!) 读取配置文件中...
+(2007: 3: 9:14:37) - (*) 服务器名称 : pkqiang
+(2007: 3: 9:14:37) - (*) 服务器地址 : 192.168.0.211
+(2007: 3: 9:14:37) - (*) 服务器端口 : 9901
+(2007: 3: 9:14:37) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:14:37) - (*) Game server mode : INTERNET
+(2007: 3: 9:14:37) - (*) 日志服务器地址 : 192.168.0.211
+(2007: 3: 9:14:37) - (*) 日志服务器端口 : 2500
+(2007: 3: 9:14:37) - (*) 网关服务器地址 : 192.168.0.211
+(2007: 3: 9:14:37) - (*) 网关服务器地址 : 6502
+(2007: 3: 9:14:37) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9:14:37) - (*) 数据读取成功.
+(2007: 3: 9:14:38) - (!) Reading settings file...
+(2007: 3: 9:14:38) - (*) Enemy Kill Mode: DEATHMATCH
+(2007: 3: 9:14:38) - (*) Player gains (3) EK per enemy kill.
+(2007: 3: 9:14:38) - (*) Primary drop rate: (1000)
+(2007: 3: 9:14:38) - (*) Secondary drop rate: (850)
+(2007: 3: 9:14:38) - (*) Administator vulnerability ignored.
+(2007: 3: 9:14:38) - (*) Monday Raid Time : (10) minutes
+(2007: 3: 9:14:38) - (*) Tuesday Raid Time : (10) minutes
+(2007: 3: 9:14:38) - (*) Wednesday Raid Time : (10) minutes
+(2007: 3: 9:14:38) - (*) Thursday Raid Time : (10) minutes
+(2007: 3: 9:14:38) - (*) Friday Raid Time : (30) minutes
+(2007: 3: 9:14:38) - (*) Saturday Raid Time : (45) minutes
+(2007: 3: 9:14:38) - (*) Sunday Raid Time : (60) minutes
+(2007: 3: 9:14:38) - (*) Logging All Chat.
+(2007: 3: 9:14:38) - (*) Slate Success Rate (25) percent
+(2007: 3: 9:14:38) - (*) Rep<->Drop modifier: (5)
+(2007: 3: 9:14:38) - (*) Security number memorized!
+(2007: 3: 9:14:38) - (!) Reading AdminList.cfg...
+(2007: 3: 9:14:38) - (!) Reading BannedList.cfg...
+(2007: 3: 9:14:38) - (!) Reading settings file...
+(2007: 3: 9:14:39) - (!) Try to Connect main-log-socket... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:14:39) - (!) Try to Connect Gate Server... Addr:192.168.0.211  Port:6502
+(2007: 3: 9:14:42) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:14:42) - (!) 读取配置文件中...
+(2007: 3: 9:14:42) - (*) 服务器名称 : pkqiang
+(2007: 3: 9:14:42) - (*) 服务器地址 : 192.168.0.211
+(2007: 3: 9:14:42) - (*) 服务器端口 : 9901
+(2007: 3: 9:14:42) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:14:42) - (*) Game server mode : INTERNET
+(2007: 3: 9:14:42) - (*) 日志服务器地址 : 192.168.0.211
+(2007: 3: 9:14:42) - (*) 日志服务器端口 : 2500
+(2007: 3: 9:14:42) - (*) 网关服务器地址 : 192.168.0.211
+(2007: 3: 9:14:42) - (*) 网关服务器地址 : 6502
+(2007: 3: 9:14:42) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9:14:43) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:14:44) - (!) 读取配置文件中...
+(2007: 3: 9:14:44) - (*) 服务器名称 : pkqiang
+(2007: 3: 9:14:44) - (*) 服务器地址 : 192.168.0.211
+(2007: 3: 9:14:44) - (*) 服务器端口 : 9901
+(2007: 3: 9:14:44) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:14:44) - (*) Game server mode : INTERNET
+(2007: 3: 9:14:44) - (*) 日志服务器地址 : 192.168.0.211
+(2007: 3: 9:14:44) - (*) 日志服务器端口 : 2500
+(2007: 3: 9:14:44) - (*) 网关服务器地址 : 192.168.0.211
+(2007: 3: 9:14:44) - (*) 网关服务器地址 : 6502
+(2007: 3: 9:14:44) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:14:44) - (!) 读取配置文件中...
+(2007: 3: 9:14:44) - (*) 服务器名称 : pkqiang
+(2007: 3: 9:14:44) - (*) 服务器地址 : 192.168.0.211
+(2007: 3: 9:14:44) - (*) 服务器端口 : 9901
+(2007: 3: 9:14:44) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:14:44) - (*) Game server mode : INTERNET
+(2007: 3: 9:14:44) - (*) 日志服务器地址 : 192.168.0.211
+(2007: 3: 9:14:44) - (*) 日志服务器端口 : 2500
+(2007: 3: 9:14:44) - (*) 网关服务器地址 : 192.168.0.211
+(2007: 3: 9:14:44) - (*) 网关服务器地址 : 6502
+(2007: 3: 9:14:44) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:14:45) - (!) 读取配置文件中...
+(2007: 3: 9:14:45) - (*) 服务器名称 : pkqiang
+(2007: 3: 9:14:45) - (*) 服务器地址 : 192.168.0.211
+(2007: 3: 9:14:45) - (*) 服务器端口 : 9901
+(2007: 3: 9:14:45) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:14:45) - (*) Game server mode : INTERNET
+(2007: 3: 9:14:45) - (*) 日志服务器地址 : 192.168.0.211
+(2007: 3: 9:14:45) - (*) 日志服务器端口 : 2500
+(2007: 3: 9:14:45) - (*) 网关服务器地址 : 192.168.0.211
+(2007: 3: 9:14:45) - (*) 网关服务器地址 : 6502
+(2007: 3: 9:14:46) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:14:46) - (!) 读取配置文件中...
+(2007: 3: 9:14:46) - (*) 服务器名称 : pkqiang
+(2007: 3: 9:14:46) - (*) 服务器地址 : 192.168.0.211
+(2007: 3: 9:14:46) - (*) 服务器端口 : 9901
+(2007: 3: 9:14:46) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:14:46) - (*) Game server mode : INTERNET
+(2007: 3: 9:14:46) - (*) 日志服务器地址 : 192.168.0.211
+(2007: 3: 9:14:46) - (*) 日志服务器端口 : 2500
+(2007: 3: 9:14:46) - (*) 网关服务器地址 : 192.168.0.211
+(2007: 3: 9:14:46) - (*) 网关服务器地址 : 6502
+(2007: 3: 9:14:46) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9:14:46) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:14:46) - (!) 读取配置文件中...
+(2007: 3: 9:14:46) - (*) 服务器名称 : pkqiang
+(2007: 3: 9:14:46) - (*) 服务器地址 : 192.168.0.211
+(2007: 3: 9:14:46) - (*) 服务器端口 : 9901
+(2007: 3: 9:14:46) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:14:46) - (*) Game server mode : INTERNET
+(2007: 3: 9:14:46) - (*) 日志服务器地址 : 192.168.0.211
+(2007: 3: 9:14:46) - (*) 日志服务器端口 : 2500
+(2007: 3: 9:14:46) - (*) 网关服务器地址 : 192.168.0.211
+(2007: 3: 9:14:47) - (*) 网关服务器地址 : 6502
+(2007: 3: 9:14:47) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9:14:47) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:14:47) - (!) 读取配置文件中...
+(2007: 3: 9:14:47) - (*) 服务器名称 : pkqiang
+(2007: 3: 9:14:47) - (*) 服务器地址 : 192.168.0.211
+(2007: 3: 9:14:47) - (*) 服务器端口 : 9901
+(2007: 3: 9:14:47) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:14:47) - (*) Game server mode : INTERNET
+(2007: 3: 9:14:47) - (*) 日志服务器地址 : 192.168.0.211
+(2007: 3: 9:14:47) - (*) 日志服务器端口 : 2500
+(2007: 3: 9:14:47) - (*) 网关服务器地址 : 192.168.0.211
+(2007: 3: 9:14:47) - (*) 网关服务器地址 : 6502
+(2007: 3: 9:14:47) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9:14:47) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:14:48) - (!) 读取配置文件中...
+(2007: 3: 9:14:48) - (*) 服务器名称 : pkqiang
+(2007: 3: 9:14:48) - (*) 服务器地址 : 192.168.0.211
+(2007: 3: 9:14:48) - (*) 服务器端口 : 9901
+(2007: 3: 9:14:48) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:14:48) - (*) Game server mode : INTERNET
+(2007: 3: 9:14:48) - (*) 日志服务器地址 : 192.168.0.211
+(2007: 3: 9:14:48) - (*) 日志服务器端口 : 2500
+(2007: 3: 9:14:48) - (*) 网关服务器地址 : 192.168.0.211
+(2007: 3: 9:14:48) - (*) 网关服务器地址 : 6502
+(2007: 3: 9:14:48) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9:14:53) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:14:53) - (!) 读取配置文件中...
+(2007: 3: 9:14:53) - (*) 服务器名称 : pkqiang
+(2007: 3: 9:14:53) - (*) 服务器地址 : 192.168.0.211
+(2007: 3: 9:14:53) - (*) 服务器端口 : 9901
+(2007: 3: 9:14:53) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:14:53) - (*) Game server mode : INTERNET
+(2007: 3: 9:14:53) - (*) 日志服务器地址 : 192.168.0.211
+(2007: 3: 9:14:53) - (*) 日志服务器端口 : 2500
+(2007: 3: 9:14:53) - (*) 网关服务器地址 : 192.168.0.211
+(2007: 3: 9:14:53) - (*) 网关服务器地址 : 6502
+(2007: 3: 9:14:53) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9:14:54) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:14:55) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:14:55) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:14:56) - (!) 读取配置文件中...
+(2007: 3: 9:14:56) - (*) 服务器名称 : pkqiang
+(2007: 3: 9:14:56) - (*) 服务器地址 : 192.168.0.211
+(2007: 3: 9:14:56) - (*) 服务器端口 : 9901
+(2007: 3: 9:14:56) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:14:56) - (*) Game server mode : INTERNET
+(2007: 3: 9:14:56) - (*) 日志服务器地址 : 192.168.0.211
+(2007: 3: 9:14:56) - (*) 日志服务器端口 : 2500
+(2007: 3: 9:14:56) - (*) 网关服务器地址 : 192.168.0.211
+(2007: 3: 9:14:56) - (*) 网关服务器地址 : 6502
+(2007: 3: 9:14:56) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9:14:56) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:14:57) - (!) 读取配置文件中...
+(2007: 3: 9:14:57) - (*) 服务器名称 : pkqiang
+(2007: 3: 9:14:57) - (*) 服务器地址 : 192.168.0.211
+(2007: 3: 9:14:57) - (*) 服务器端口 : 9901
+(2007: 3: 9:14:57) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:14:57) - (*) Game server mode : INTERNET
+(2007: 3: 9:14:57) - (*) 日志服务器地址 : 192.168.0.211
+(2007: 3: 9:14:57) - (*) 日志服务器端口 : 2500
+(2007: 3: 9:14:57) - (*) 网关服务器地址 : 192.168.0.211
+(2007: 3: 9:14:57) - (*) 网关服务器地址 : 6502
+(2007: 3: 9:14:57) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9:14:58) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:14:58) - (!) 读取配置文件中...
+(2007: 3: 9:14:58) - (*) 服务器名称 : pkqiang
+(2007: 3: 9:14:58) - (*) 服务器地址 : 192.168.0.211
+(2007: 3: 9:14:58) - (*) 服务器端口 : 9901
+(2007: 3: 9:14:58) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:14:58) - (*) Game server mode : INTERNET
+(2007: 3: 9:14:58) - (*) 日志服务器地址 : 192.168.0.211
+(2007: 3: 9:14:58) - (*) 日志服务器端口 : 2500
+(2007: 3: 9:14:58) - (*) 网关服务器地址 : 192.168.0.211
+(2007: 3: 9:14:58) - (*) 网关服务器地址 : 6502
+(2007: 3: 9:14:58) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9:14:58) - (*) 数据读取成功.
+(2007: 3: 9:14:59) - (!) Reading settings file...
+(2007: 3: 9:14:59) - (*) Enemy Kill Mode: DEATHMATCH
+(2007: 3: 9:14:59) - (*) Player gains (3) EK per enemy kill.
+(2007: 3: 9:14:59) - (*) Primary drop rate: (1000)
+(2007: 3: 9:14:59) - (*) Secondary drop rate: (850)
+(2007: 3: 9:14:59) - (*) Administator vulnerability ignored.
+(2007: 3: 9:14:59) - (*) Monday Raid Time : (10) minutes
+(2007: 3: 9:14:59) - (*) Tuesday Raid Time : (10) minutes
+(2007: 3: 9:14:59) - (*) Wednesday Raid Time : (10) minutes
+(2007: 3: 9:14:59) - (*) Thursday Raid Time : (10) minutes
+(2007: 3: 9:14:59) - (*) Friday Raid Time : (30) minutes
+(2007: 3: 9:14:59) - (*) Saturday Raid Time : (45) minutes
+(2007: 3: 9:14:59) - (*) Sunday Raid Time : (60) minutes
+(2007: 3: 9:14:59) - (*) Logging All Chat.
+(2007: 3: 9:14:59) - (*) Slate Success Rate (25) percent
+(2007: 3: 9:14:59) - (*) Rep<->Drop modifier: (5)
+(2007: 3: 9:14:59) - (*) Security number memorized!
+(2007: 3: 9:14:59) - (!) Reading AdminList.cfg...
+(2007: 3: 9:14:59) - (!) Reading BannedList.cfg...
+(2007: 3: 9:14:59) - (!) Reading settings file...
+(2007: 3: 9:14:59) - (!) Try to Connect main-log-socket... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:14:59) - (!) Try to Connect Gate Server... Addr:192.168.0.211  Port:6502
+(2007: 3: 9:14:59) - (!) Notify Message list file not found!...
+(2007: 3: 9:15:10) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:15:10) - (!) 读取配置文件中...
+(2007: 3: 9:15:11) - (*) 服务器名称 : pkqiang
+(2007: 3: 9:15:11) - (*) 服务器地址 : 192.168.0.211
+(2007: 3: 9:15:11) - (*) 服务器端口 : 9901
+(2007: 3: 9:15:11) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:15:11) - (*) Game server mode : INTERNET
+(2007: 3: 9:15:11) - (*) 日志服务器地址 : 192.168.0.211
+(2007: 3: 9:15:11) - (*) 日志服务器端口 : 2500
+(2007: 3: 9:15:11) - (*) 网关服务器地址 : 192.168.0.211
+(2007: 3: 9:15:11) - (*) 网关服务器地址 : 6502
+(2007: 3: 9:15:11) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9:15:11) - (*) 数据读取成功.
+(2007: 3: 9:15:11) - (!) Reading settings file...
+(2007: 3: 9:15:11) - (*) Enemy Kill Mode: DEATHMATCH
+(2007: 3: 9:15:11) - (*) Player gains (3) EK per enemy kill.
+(2007: 3: 9:15:11) - (*) Primary drop rate: (1000)
+(2007: 3: 9:15:11) - (*) Secondary drop rate: (850)
+(2007: 3: 9:15:11) - (*) Administator vulnerability ignored.
+(2007: 3: 9:15:11) - (*) Monday Raid Time : (10) minutes
+(2007: 3: 9:15:11) - (*) Tuesday Raid Time : (10) minutes
+(2007: 3: 9:15:11) - (*) Wednesday Raid Time : (10) minutes
+(2007: 3: 9:15:11) - (*) Thursday Raid Time : (10) minutes
+(2007: 3: 9:15:11) - (*) Friday Raid Time : (30) minutes
+(2007: 3: 9:15:11) - (*) Saturday Raid Time : (45) minutes
+(2007: 3: 9:15:11) - (*) Sunday Raid Time : (60) minutes
+(2007: 3: 9:15:11) - (*) Logging All Chat.
+(2007: 3: 9:15:11) - (*) Slate Success Rate (25) percent
+(2007: 3: 9:15:11) - (*) Rep<->Drop modifier: (5)
+(2007: 3: 9:15:11) - (*) Security number memorized!
+(2007: 3: 9:15:12) - (!) Reading AdminList.cfg...
+(2007: 3: 9:15:12) - (!) Reading BannedList.cfg...
+(2007: 3: 9:15:12) - (!) Reading settings file...
+(2007: 3: 9:15:12) - (!) Try to Connect main-log-socket... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:15:12) - (!) Try to Connect Gate Server... Addr:192.168.0.211  Port:6502
+(2007: 3: 9:15:14) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:15:14) - (!) 读取配置文件中...
+(2007: 3: 9:15:14) - (*) 服务器名称 : pkqiang
+(2007: 3: 9:15:14) - (*) 服务器地址 : 192.168.0.211
+(2007: 3: 9:15:14) - (*) 服务器端口 : 9901
+(2007: 3: 9:15:14) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:15:14) - (*) Game server mode : INTERNET
+(2007: 3: 9:15:14) - (*) 日志服务器地址 : 192.168.0.211
+(2007: 3: 9:15:14) - (*) 日志服务器端口 : 2500
+(2007: 3: 9:15:14) - (*) 网关服务器地址 : 192.168.0.211
+(2007: 3: 9:15:14) - (*) 网关服务器地址 : 6502
+(2007: 3: 9:15:14) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9:15:14) - (*) 数据读取成功.
+(2007: 3: 9:15:15) - (!) Reading settings file...
+(2007: 3: 9:15:15) - (*) Enemy Kill Mode: DEATHMATCH
+(2007: 3: 9:15:15) - (*) Player gains (3) EK per enemy kill.
+(2007: 3: 9:15:15) - (*) Primary drop rate: (1000)
+(2007: 3: 9:15:15) - (*) Secondary drop rate: (850)
+(2007: 3: 9:15:15) - (*) Administator vulnerability ignored.
+(2007: 3: 9:15:15) - (*) Monday Raid Time : (10) minutes
+(2007: 3: 9:15:15) - (*) Tuesday Raid Time : (10) minutes
+(2007: 3: 9:15:15) - (*) Wednesday Raid Time : (10) minutes
+(2007: 3: 9:15:15) - (*) Thursday Raid Time : (10) minutes
+(2007: 3: 9:15:15) - (*) Friday Raid Time : (30) minutes
+(2007: 3: 9:15:15) - (*) Saturday Raid Time : (45) minutes
+(2007: 3: 9:15:15) - (*) Sunday Raid Time : (60) minutes
+(2007: 3: 9:15:15) - (*) Logging All Chat.
+(2007: 3: 9:15:15) - (*) Slate Success Rate (25) percent
+(2007: 3: 9:15:15) - (*) Rep<->Drop modifier: (5)
+(2007: 3: 9:15:15) - (*) Security number memorized!
+(2007: 3: 9:15:15) - (!) Reading AdminList.cfg...
+(2007: 3: 9:15:15) - (!) Reading BannedList.cfg...
+(2007: 3: 9:15:15) - (!) Reading settings file...
+(2007: 3: 9:15:15) - (!) Try to Connect main-log-socket... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:15:15) - (!) Try to Connect Gate Server... Addr:192.168.0.211  Port:6502
+(2007: 3: 9:15:15) - (!) Notify Message list file not found!...
+(2007: 3: 9:15:19) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:15:19) - (!) 读取配置文件中...
+(2007: 3: 9:15:19) - (*) 服务器名称 : pkqiang
+(2007: 3: 9:15:19) - (*) 服务器地址 : 192.168.0.211
+(2007: 3: 9:15:19) - (*) 服务器端口 : 9901
+(2007: 3: 9:15:19) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:15:19) - (*) Game server mode : INTERNET
+(2007: 3: 9:15:19) - (*) 日志服务器地址 : 192.168.0.211
+(2007: 3: 9:15:19) - (*) 日志服务器端口 : 2500
+(2007: 3: 9:15:19) - (*) 网关服务器地址 : 192.168.0.211
+(2007: 3: 9:15:19) - (*) 网关服务器地址 : 6502
+(2007: 3: 9:15:19) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9:15:19) - (*) 数据读取成功.
+(2007: 3: 9:15:19) - (!) Reading settings file...
+(2007: 3: 9:15:20) - (*) Enemy Kill Mode: DEATHMATCH
+(2007: 3: 9:15:20) - (*) Player gains (3) EK per enemy kill.
+(2007: 3: 9:15:20) - (*) Primary drop rate: (1000)
+(2007: 3: 9:15:20) - (*) Secondary drop rate: (850)
+(2007: 3: 9:15:20) - (*) Administator vulnerability ignored.
+(2007: 3: 9:15:20) - (*) Monday Raid Time : (10) minutes
+(2007: 3: 9:15:20) - (*) Tuesday Raid Time : (10) minutes
+(2007: 3: 9:15:20) - (*) Wednesday Raid Time : (10) minutes
+(2007: 3: 9:15:20) - (*) Thursday Raid Time : (10) minutes
+(2007: 3: 9:15:20) - (*) Friday Raid Time : (30) minutes
+(2007: 3: 9:15:20) - (*) Saturday Raid Time : (45) minutes
+(2007: 3: 9:15:20) - (*) Sunday Raid Time : (60) minutes
+(2007: 3: 9:15:20) - (*) Logging All Chat.
+(2007: 3: 9:15:20) - (*) Slate Success Rate (25) percent
+(2007: 3: 9:15:20) - (*) Rep<->Drop modifier: (5)
+(2007: 3: 9:15:20) - (*) Security number memorized!
+(2007: 3: 9:15:20) - (!) Reading AdminList.cfg...
+(2007: 3: 9:15:20) - (!) Reading BannedList.cfg...
+(2007: 3: 9:15:20) - (!) Reading settings file...
+(2007: 3: 9:15:20) - (!) Try to Connect main-log-socket... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:15:20) - (!) Try to Connect Gate Server... Addr:192.168.0.211  Port:6502
+(2007: 3: 9:15:21) - (!) Notify Message list file not found!...
+(2007: 3: 9:15:21) - (!!!) Gate-socket connection counting...1
+(2007: 3: 9:15:21) - (!) Try to connect sub-log-socket(0)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:15:21) - (!) Try to connect sub-log-socket(1)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:15:21) - (!) Try to connect sub-log-socket(2)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:15:21) - (!) Try to connect sub-log-socket(3)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:15:21) - (!) Try to connect sub-log-socket(4)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:15:21) - (!!!) Gate-socket connection counting...2
+(2007: 3: 9:15:21) - (!) Try to connect sub-log-socket(5)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:15:21) - (!) Try to connect sub-log-socket(6)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:15:21) - (!) Try to connect sub-log-socket(7)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:15:21) - (!) Try to connect sub-log-socket(8)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:15:21) - (!!!) Gate-socket connection counting...3
+(2007: 3: 9:15:21) - (!) Try to connect sub-log-socket(9)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:15:21) - (!!!) Gate-socket connection counting...4
+(2007: 3: 9:15:21) - (!!!) Gate-socket connection counting...5
+(2007: 3: 9:15:22) - (!!!) Gate-socket connection counting...6
+(2007: 3: 9:15:22) - (!!!) Gate-socket connection counting...7
+(2007: 3: 9:15:22) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:15:22) - (!) 读取配置文件中...
+(2007: 3: 9:15:22) - (*) 服务器名称 : pkqiang
+(2007: 3: 9:15:22) - (*) 服务器地址 : 192.168.0.211
+(2007: 3: 9:15:22) - (*) 服务器端口 : 9901
+(2007: 3: 9:15:22) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:15:22) - (*) Game server mode : INTERNET
+(2007: 3: 9:15:22) - (*) 日志服务器地址 : 192.168.0.211
+(2007: 3: 9:15:22) - (*) 日志服务器端口 : 2500
+(2007: 3: 9:15:22) - (*) 网关服务器地址 : 192.168.0.211
+(2007: 3: 9:15:22) - (*) 网关服务器地址 : 6502
+(2007: 3: 9:15:22) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9:15:22) - (*) 数据读取成功.
+(2007: 3: 9:15:22) - (!) Reading settings file...
+(2007: 3: 9:15:22) - (*) Enemy Kill Mode: DEATHMATCH
+(2007: 3: 9:15:22) - (*) Player gains (3) EK per enemy kill.
+(2007: 3: 9:15:22) - (*) Primary drop rate: (1000)
+(2007: 3: 9:15:22) - (*) Secondary drop rate: (850)
+(2007: 3: 9:15:22) - (*) Administator vulnerability ignored.
+(2007: 3: 9:15:22) - (*) Monday Raid Time : (10) minutes
+(2007: 3: 9:15:22) - (*) Tuesday Raid Time : (10) minutes
+(2007: 3: 9:15:22) - (*) Wednesday Raid Time : (10) minutes
+(2007: 3: 9:15:22) - (*) Thursday Raid Time : (10) minutes
+(2007: 3: 9:15:22) - (*) Friday Raid Time : (30) minutes
+(2007: 3: 9:15:22) - (*) Saturday Raid Time : (45) minutes
+(2007: 3: 9:15:22) - (*) Sunday Raid Time : (60) minutes
+(2007: 3: 9:15:22) - (*) Logging All Chat.
+(2007: 3: 9:15:22) - (*) Slate Success Rate (25) percent
+(2007: 3: 9:15:22) - (*) Rep<->Drop modifier: (5)
+(2007: 3: 9:15:22) - (*) Security number memorized!
+(2007: 3: 9:15:22) - (!) Reading AdminList.cfg...
+(2007: 3: 9:15:22) - (!) Reading BannedList.cfg...
+(2007: 3: 9:15:22) - (!) Reading settings file...
+(2007: 3: 9:15:22) - (!) Try to Connect main-log-socket... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:15:22) - (!) Try to Connect Gate Server... Addr:192.168.0.211  Port:6502
+(2007: 3: 9:15:22) - (!) Notify Message list file not found!...
+(2007: 3: 9:15:22) - (!) Try to connect sub-log-socket(0)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:15:22) - (!) Try to connect sub-log-socket(1)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:15:22) - (!!!) Gate-socket connection counting...1
+(2007: 3: 9:15:22) - (!) Try to connect sub-log-socket(2)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:15:22) - (!) Try to connect sub-log-socket(3)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:15:22) - (!) Try to connect sub-log-socket(4)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:15:22) - (!) Try to connect sub-log-socket(5)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:15:22) - (!) Try to connect sub-log-socket(6)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:15:22) - (!!!) Gate-socket connection counting...2
+(2007: 3: 9:15:22) - (!) Try to connect sub-log-socket(7)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:15:22) - (!) Try to connect sub-log-socket(8)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:15:22) - (!) Try to connect sub-log-socket(9)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:15:22) - (!!!) Gate-socket connection counting...3
+(2007: 3: 9:15:22) - (!!!) Gate-socket connection counting...4
+(2007: 3: 9:15:22) - (!!!) Gate-socket connection counting...5
+(2007: 3: 9:15:22) - (!!!) Gate-socket connection counting...6
+(2007: 3: 9:15:22) - (!!!) Gate-socket connection counting...7
+(2007: 3: 9:15:22) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:15:22) - (!) 读取配置文件中...
+(2007: 3: 9:15:22) - (*) 服务器名称 : pkqiang
+(2007: 3: 9:15:22) - (*) 服务器地址 : 192.168.0.211
+(2007: 3: 9:15:22) - (*) 服务器端口 : 9901
+(2007: 3: 9:15:22) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:15:22) - (*) Game server mode : INTERNET
+(2007: 3: 9:15:22) - (*) 日志服务器地址 : 192.168.0.211
+(2007: 3: 9:15:22) - (*) 日志服务器端口 : 2500
+(2007: 3: 9:15:22) - (*) 网关服务器地址 : 192.168.0.211
+(2007: 3: 9:15:22) - (*) 网关服务器地址 : 6502
+(2007: 3: 9:15:22) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9:15:22) - (*) 数据读取成功.
+(2007: 3: 9:15:22) - (!) Reading settings file...
+(2007: 3: 9:15:22) - (*) Enemy Kill Mode: DEATHMATCH
+(2007: 3: 9:15:22) - (*) Player gains (3) EK per enemy kill.
+(2007: 3: 9:15:22) - (*) Primary drop rate: (1000)
+(2007: 3: 9:15:22) - (*) Secondary drop rate: (850)
+(2007: 3: 9:15:22) - (*) Administator vulnerability ignored.
+(2007: 3: 9:15:23) - (*) Monday Raid Time : (10) minutes
+(2007: 3: 9:15:23) - (*) Tuesday Raid Time : (10) minutes
+(2007: 3: 9:15:23) - (*) Wednesday Raid Time : (10) minutes
+(2007: 3: 9:15:23) - (*) Thursday Raid Time : (10) minutes
+(2007: 3: 9:15:23) - (*) Friday Raid Time : (30) minutes
+(2007: 3: 9:15:23) - (*) Saturday Raid Time : (45) minutes
+(2007: 3: 9:15:23) - (*) Sunday Raid Time : (60) minutes
+(2007: 3: 9:15:23) - (*) Logging All Chat.
+(2007: 3: 9:15:23) - (*) Slate Success Rate (25) percent
+(2007: 3: 9:15:23) - (*) Rep<->Drop modifier: (5)
+(2007: 3: 9:15:23) - (*) Security number memorized!
+(2007: 3: 9:15:23) - (!) Reading AdminList.cfg...
+(2007: 3: 9:15:23) - (!) Reading BannedList.cfg...
+(2007: 3: 9:15:23) - (!) Reading settings file...
+(2007: 3: 9:15:23) - (!) Try to Connect main-log-socket... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:15:24) - (!) Try to Connect Gate Server... Addr:192.168.0.211  Port:6502
+(2007: 3: 9:18:33) - (!) INITIALIZING GAME SERVER...
+(2007: 3: 9:18:33) - (!) 读取配置文件中...
+(2007: 3: 9:18:33) - (*) 服务器名称 : pkqiang
+(2007: 3: 9:18:33) - (*) 服务器地址 : 192.168.1.100
+(2007: 3: 9:18:33) - (*) 服务器端口 : 9901
+(2007: 3: 9:18:33) - (*) Game server address : 192.168.0.211
+(2007: 3: 9:18:33) - (*) Game server mode : INTERNET
+(2007: 3: 9:18:33) - (*) 日志服务器地址 : 192.168.0.211
+(2007: 3: 9:18:33) - (*) 日志服务器端口 : 2500
+(2007: 3: 9:18:33) - (*) 网关服务器地址 : 192.168.0.211
+(2007: 3: 9:18:33) - (*) 网关服务器地址 : 6502
+(2007: 3: 9:18:33) - (*) Add map (aresden)   - Loading map info files...
+(2007: 3: 9:18:33) - (*) 数据读取成功.
+(2007: 3: 9:18:33) - (!) Reading settings file...
+(2007: 3: 9:18:33) - (*) Enemy Kill Mode: DEATHMATCH
+(2007: 3: 9:18:33) - (*) Player gains (3) EK per enemy kill.
+(2007: 3: 9:18:33) - (*) Primary drop rate: (1000)
+(2007: 3: 9:18:33) - (*) Secondary drop rate: (850)
+(2007: 3: 9:18:33) - (*) Administator vulnerability ignored.
+(2007: 3: 9:18:33) - (*) Monday Raid Time : (10) minutes
+(2007: 3: 9:18:33) - (*) Tuesday Raid Time : (10) minutes
+(2007: 3: 9:18:33) - (*) Wednesday Raid Time : (10) minutes
+(2007: 3: 9:18:33) - (*) Thursday Raid Time : (10) minutes
+(2007: 3: 9:18:33) - (*) Friday Raid Time : (30) minutes
+(2007: 3: 9:18:33) - (*) Saturday Raid Time : (45) minutes
+(2007: 3: 9:18:33) - (*) Sunday Raid Time : (60) minutes
+(2007: 3: 9:18:33) - (*) Logging All Chat.
+(2007: 3: 9:18:33) - (*) Slate Success Rate (25) percent
+(2007: 3: 9:18:33) - (*) Rep<->Drop modifier: (5)
+(2007: 3: 9:18:33) - (*) Security number memorized!
+(2007: 3: 9:18:33) - (!) Reading AdminList.cfg...
+(2007: 3: 9:18:33) - (!) Reading BannedList.cfg...
+(2007: 3: 9:18:33) - (!) Reading settings file...
+(2007: 3: 9:18:33) - (!) Try to Connect main-log-socket... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:18:33) - (!) Try to Connect Gate Server... Addr:192.168.0.211  Port:6502
+(2007: 3: 9:18:33) - (!) Notify Message list file not found!...
+(2007: 3: 9:18:33) - (!!!) Gate-socket connection counting...1
+(2007: 3: 9:18:33) - (!) Try to connect sub-log-socket(0)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:18:33) - (!) Try to connect sub-log-socket(1)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:18:33) - (!) Try to connect sub-log-socket(2)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:18:33) - (!) Try to connect sub-log-socket(3)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:18:33) - (!!!) Gate-socket connection counting...2
+(2007: 3: 9:18:33) - (!) Try to connect sub-log-socket(4)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:18:33) - (!) Try to connect sub-log-socket(5)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:18:33) - (!) Try to connect sub-log-socket(6)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:18:33) - (!) Try to connect sub-log-socket(7)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:18:33) - (!!!) Gate-socket connection counting...3
+(2007: 3: 9:18:33) - (!) Try to connect sub-log-socket(8)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:18:33) - (!) Try to connect sub-log-socket(9)... Addr:192.168.0.211  Port:2500
+(2007: 3: 9:18:33) - (!!!) Gate-socket connection counting...4
+(2007: 3: 9:18:33) - (!!!) Gate-socket connection counting...5
+(2007: 3: 9:18:33) - (!!!) Gate-socket connection counting...6
+(2007: 3: 9:18:33) - (!!!) Gate-socket connection counting...7
+(2007: 3: 9:18:33) - (!!!) Gate-socket connection counting...8
+(2007: 4:25:12:55) - (!) INITIALIZING GAME SERVER...
+(2007: 4:25:12:55) - (!) 读取配置文件中...
+(2007: 4:25:12:55) - (*) 服务器名称 : pkqiang
+(2007: 4:25:12:55) - (*) 服务器地址 : 192.168.1.100
+(2007: 4:25:12:55) - (*) 服务器端口 : 9901
+(2007: 4:25:12:55) - (*) Game server address : 192.168.0.211
+(2007: 4:25:12:55) - (*) Game server mode : INTERNET
+(2007: 4:25:12:55) - (*) 日志服务器地址 : 192.168.0.211
+(2007: 4:25:12:55) - (*) 日志服务器端口 : 2500
+(2007: 4:25:12:55) - (*) 网关服务器地址 : 192.168.0.211
+(2007: 4:25:12:55) - (*) 网关服务器地址 : 6502
+(2007: 4:25:12:55) - (*) Add map (aresden)   - Loading map info files...
+(2007: 4:25:12:55) - (*) 数据读取成功.
+(2007: 4:25:12:55) - (!) Reading settings file...
+(2007: 4:25:12:55) - (*) Enemy Kill Mode: DEATHMATCH
+(2007: 4:25:12:55) - (*) Player gains (3) EK per enemy kill.
+(2007: 4:25:12:55) - (*) Primary drop rate: (1000)
+(2007: 4:25:12:55) - (*) Secondary drop rate: (850)
+(2007: 4:25:12:55) - (*) Administator vulnerability ignored.
+(2007: 4:25:12:55) - (*) Monday Raid Time : (10) minutes
+(2007: 4:25:12:55) - (*) Tuesday Raid Time : (10) minutes
+(2007: 4:25:12:55) - (*) Wednesday Raid Time : (10) minutes
+(2007: 4:25:12:55) - (*) Thursday Raid Time : (10) minutes
+(2007: 4:25:12:55) - (*) Friday Raid Time : (30) minutes
+(2007: 4:25:12:55) - (*) Saturday Raid Time : (45) minutes
+(2007: 4:25:12:55) - (*) Sunday Raid Time : (60) minutes
+(2007: 4:25:12:55) - (*) Logging All Chat.
+(2007: 4:25:12:55) - (*) Slate Success Rate (25) percent
+(2007: 4:25:12:55) - (*) Rep<->Drop modifier: (5)
+(2007: 4:25:12:55) - (*) Security number memorized!
+(2007: 4:25:12:55) - (!) Reading AdminList.cfg...
+(2007: 4:25:12:55) - (!) Reading BannedList.cfg...
+(2007: 4:25:12:55) - (!) Reading settings file...
+(2007: 4:25:12:55) - (!) Try to Connect main-log-socket... Addr:192.168.0.211  Port:2500
+(2007: 4:25:12:55) - (!) Try to Connect Gate Server... Addr:192.168.0.211  Port:6502
+(2007: 4:25:12:55) - (!) Notify Message list file not found!...
+(2007: 4:25:12:55) - (!!!) Gate-socket connection counting...1
+(2007: 4:25:12:55) - (!) Try to connect sub-log-socket(0)... Addr:192.168.0.211  Port:2500
+(2007: 4:25:12:55) - (!) Try to connect sub-log-socket(1)... Addr:192.168.0.211  Port:2500
+(2007: 4:25:12:55) - (!) Try to connect sub-log-socket(2)... Addr:192.168.0.211  Port:2500
+(2007: 4:25:12:55) - (!) Try to connect sub-log-socket(3)... Addr:192.168.0.211  Port:2500
+(2007: 4:25:12:55) - (!!!) Gate-socket connection counting...2
+(2007: 4:25:12:55) - (!) Try to connect sub-log-socket(4)... Addr:192.168.0.211  Port:2500
+(2007: 4:25:12:55) - (!) Try to connect sub-log-socket(5)... Addr:192.168.0.211  Port:2500
+(2007: 4:25:12:55) - (!!!) Gate-socket connection counting...3
+(2007: 4:25:12:55) - (!) Try to connect sub-log-socket(6)... Addr:192.168.0.211  Port:2500
+(2007: 4:25:12:55) - (!) Try to connect sub-log-socket(7)... Addr:192.168.0.211  Port:2500
+(2007: 4:25:12:55) - (!!!) Gate-socket connection counting...4
+(2007: 4:25:12:55) - (!) Try to connect sub-log-socket(8)... Addr:192.168.0.211  Port:2500
+(2007: 4:25:12:55) - (!) Try to connect sub-log-socket(9)... Addr:192.168.0.211  Port:2500
+(2007: 4:25:12:56) - (!!!) Gate-socket connection counting...5

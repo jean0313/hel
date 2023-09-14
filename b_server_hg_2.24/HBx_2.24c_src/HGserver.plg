@@ -1,0 +1,157 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: HGserver - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x412 /fo"Debug/HGserver.res" /d "_DEBUG" "D:\战场服务器端\LifesShit\LifesShit\server files\HBx 2[1].24c Source00\HBx 2.24c Source\HGserver.rc"" 
+Creating temporary file "C:\DOCUME~1\cly\LOCALS~1\Temp\RSP64.tmp" with contents
+[
+/nologo /G5 /MTd /W3 /Gm /GX /ZI /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /FR"Debug/" /Fp"Debug/HGserver.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /c 
+"D:\战场服务器端\LifesShit\LifesShit\server files\HBx 2[1].24c Source00\HBx 2.24c Source\BuildItem.cpp"
+"D:\战场服务器端\LifesShit\LifesShit\server files\HBx 2[1].24c Source00\HBx 2.24c Source\Client.cpp"
+"D:\战场服务器端\LifesShit\LifesShit\server files\HBx 2[1].24c Source00\HBx 2.24c Source\DelayEvent.cpp"
+"D:\战场服务器端\LifesShit\LifesShit\server files\HBx 2[1].24c Source00\HBx 2.24c Source\DynamicObject.cpp"
+"D:\战场服务器端\LifesShit\LifesShit\server files\HBx 2[1].24c Source00\HBx 2.24c Source\Fish.cpp"
+"D:\战场服务器端\LifesShit\LifesShit\server files\HBx 2[1].24c Source00\HBx 2.24c Source\Game.cpp"
+"D:\战场服务器端\LifesShit\LifesShit\server files\HBx 2[1].24c Source00\HBx 2.24c Source\GuildsMan.cpp"
+"D:\战场服务器端\LifesShit\LifesShit\server files\HBx 2[1].24c Source00\HBx 2.24c Source\Item.cpp"
+"D:\战场服务器端\LifesShit\LifesShit\server files\HBx 2[1].24c Source00\HBx 2.24c Source\Magic.cpp"
+"D:\战场服务器端\LifesShit\LifesShit\server files\HBx 2[1].24c Source00\HBx 2.24c Source\Map.cpp"
+"D:\战场服务器端\LifesShit\LifesShit\server files\HBx 2[1].24c Source00\HBx 2.24c Source\Mineral.cpp"
+"D:\战场服务器端\LifesShit\LifesShit\server files\HBx 2[1].24c Source00\HBx 2.24c Source\Misc.cpp"
+"D:\战场服务器端\LifesShit\LifesShit\server files\HBx 2[1].24c Source00\HBx 2.24c Source\Msg.cpp"
+"D:\战场服务器端\LifesShit\LifesShit\server files\HBx 2[1].24c Source00\HBx 2.24c Source\Npc.cpp"
+"D:\战场服务器端\LifesShit\LifesShit\server files\HBx 2[1].24c Source00\HBx 2.24c Source\OccupyFlag.cpp"
+"D:\战场服务器端\LifesShit\LifesShit\server files\HBx 2[1].24c Source00\HBx 2.24c Source\Portion.cpp"
+"D:\战场服务器端\LifesShit\LifesShit\server files\HBx 2[1].24c Source00\HBx 2.24c Source\Quest.cpp"
+"D:\战场服务器端\LifesShit\LifesShit\server files\HBx 2[1].24c Source00\HBx 2.24c Source\Skill.cpp"
+"D:\战场服务器端\LifesShit\LifesShit\server files\HBx 2[1].24c Source00\HBx 2.24c Source\StrategicPoint.cpp"
+"D:\战场服务器端\LifesShit\LifesShit\server files\HBx 2[1].24c Source00\HBx 2.24c Source\StrTok.cpp"
+"D:\战场服务器端\LifesShit\LifesShit\server files\HBx 2[1].24c Source00\HBx 2.24c Source\Teleport.cpp"
+"D:\战场服务器端\LifesShit\LifesShit\server files\HBx 2[1].24c Source00\HBx 2.24c Source\TeleportLoc.cpp"
+"D:\战场服务器端\LifesShit\LifesShit\server files\HBx 2[1].24c Source00\HBx 2.24c Source\TempNpcItem.cpp"
+"D:\战场服务器端\LifesShit\LifesShit\server files\HBx 2[1].24c Source00\HBx 2.24c Source\Tile.cpp"
+"D:\战场服务器端\LifesShit\LifesShit\server files\HBx 2[1].24c Source00\HBx 2.24c Source\wmain.cpp"
+"D:\战场服务器端\LifesShit\LifesShit\server files\HBx 2[1].24c Source00\HBx 2.24c Source\XSocket.cpp"
+"D:\战场服务器端\LifesShit\LifesShit\server files\HBx 2[1].24c Source00\HBx 2.24c Source\DebugDialog.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\cly\LOCALS~1\Temp\RSP64.tmp" 
+Creating temporary file "C:\DOCUME~1\cly\LOCALS~1\Temp\RSP65.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /profile /debug /machine:I386 /out:"Debug/HGserver.exe" 
+".\Debug\BuildItem.obj"
+".\Debug\Client.obj"
+".\Debug\DelayEvent.obj"
+".\Debug\DynamicObject.obj"
+".\Debug\Fish.obj"
+".\Debug\Game.obj"
+".\Debug\GuildsMan.obj"
+".\Debug\Item.obj"
+".\Debug\Magic.obj"
+".\Debug\Map.obj"
+".\Debug\Mineral.obj"
+".\Debug\Misc.obj"
+".\Debug\Msg.obj"
+".\Debug\Npc.obj"
+".\Debug\OccupyFlag.obj"
+".\Debug\Portion.obj"
+".\Debug\Quest.obj"
+".\Debug\Skill.obj"
+".\Debug\StrategicPoint.obj"
+".\Debug\StrTok.obj"
+".\Debug\Teleport.obj"
+".\Debug\TeleportLoc.obj"
+".\Debug\TempNpcItem.obj"
+".\Debug\Tile.obj"
+".\Debug\wmain.obj"
+".\Debug\XSocket.obj"
+".\Debug\DebugDialog.obj"
+".\Debug\HGserver.res"
+".\Winmm.lib"
+".\Ws2_32.lib"
+]
+Creating command line "link.exe @C:\DOCUME~1\cly\LOCALS~1\Temp\RSP65.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+BuildItem.cpp
+Client.cpp
+DelayEvent.cpp
+DynamicObject.cpp
+Fish.cpp
+Game.cpp
+d:\战场服务器端\lifesshit\lifesshit\server files\hbx 2[1].24c source00\hbx 2.24c source\game.cpp(1107) : warning C4101: 'dwTime' : unreferenced local variable
+d:\战场服务器端\lifesshit\lifesshit\server files\hbx 2[1].24c source00\hbx 2.24c source\game.cpp(2109) : warning C4305: '=' : truncation from 'const int' to 'char'
+d:\战场服务器端\lifesshit\lifesshit\server files\hbx 2[1].24c source00\hbx 2.24c source\game.cpp(2109) : warning C4309: '=' : truncation of constant value
+d:\战场服务器端\lifesshit\lifesshit\server files\hbx 2[1].24c source00\hbx 2.24c source\game.cpp(8859) : warning C4305: '=' : truncation from 'const int' to 'short'
+d:\战场服务器端\lifesshit\lifesshit\server files\hbx 2[1].24c source00\hbx 2.24c source\game.cpp(8859) : warning C4309: '=' : truncation of constant value
+GuildsMan.cpp
+d:\战场服务器端\lifesshit\lifesshit\server files\hbx 2[1].24c source00\hbx 2.24c source\game.cpp(23884) : warning C4700: local variable 'cMapIndex' used without having been initialized
+Item.cpp
+Magic.cpp
+Map.cpp
+Mineral.cpp
+Misc.cpp
+Msg.cpp
+Npc.cpp
+OccupyFlag.cpp
+Portion.cpp
+Quest.cpp
+Skill.cpp
+StrategicPoint.cpp
+StrTok.cpp
+Teleport.cpp
+TeleportLoc.cpp
+TempNpcItem.cpp
+Tile.cpp
+wmain.cpp
+XSocket.cpp
+DebugDialog.cpp
+D:\战场服务器端\LifesShit\LifesShit\server files\HBx 2[1].24c Source00\HBx 2.24c Source\DebugDialog.cpp(85) : warning C4018: '<' : signed/unsigned mismatch
+D:\战场服务器端\LifesShit\LifesShit\server files\HBx 2[1].24c Source00\HBx 2.24c Source\DebugDialog.cpp(88) : warning C4018: '<' : signed/unsigned mismatch
+D:\战场服务器端\LifesShit\LifesShit\server files\HBx 2[1].24c Source00\HBx 2.24c Source\DebugDialog.cpp(97) : warning C4018: '<' : signed/unsigned mismatch
+Linking...
+Creating temporary file "C:\DOCUME~1\cly\LOCALS~1\Temp\RSP67.tmp" with contents
+[
+/nologo /o"Debug/HGserver.bsc" 
+".\Debug\BuildItem.sbr"
+".\Debug\Client.sbr"
+".\Debug\DelayEvent.sbr"
+".\Debug\DynamicObject.sbr"
+".\Debug\Fish.sbr"
+".\Debug\Game.sbr"
+".\Debug\GuildsMan.sbr"
+".\Debug\Item.sbr"
+".\Debug\Magic.sbr"
+".\Debug\Map.sbr"
+".\Debug\Mineral.sbr"
+".\Debug\Misc.sbr"
+".\Debug\Msg.sbr"
+".\Debug\Npc.sbr"
+".\Debug\OccupyFlag.sbr"
+".\Debug\Portion.sbr"
+".\Debug\Quest.sbr"
+".\Debug\Skill.sbr"
+".\Debug\StrategicPoint.sbr"
+".\Debug\StrTok.sbr"
+".\Debug\Teleport.sbr"
+".\Debug\TeleportLoc.sbr"
+".\Debug\TempNpcItem.sbr"
+".\Debug\Tile.sbr"
+".\Debug\wmain.sbr"
+".\Debug\XSocket.sbr"
+".\Debug\DebugDialog.sbr"]
+Creating command line "bscmake.exe @C:\DOCUME~1\cly\LOCALS~1\Temp\RSP67.tmp"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+HGserver.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

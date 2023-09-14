@@ -1,0 +1,172 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: jpeg - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\GWAY\LOCALS~1\Temp\RSP223.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /Fo"Release/" /Fd"Release/" /FD /c 
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jcapimin.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jcapistd.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jccoefct.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jccolor.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jcdctmgr.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jchuff.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jcinit.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jcmainct.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jcmarker.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jcmaster.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jcomapi.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jcparam.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jcphuff.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jcprepct.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jcsample.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jctrans.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jdapimin.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jdapistd.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jdatadst.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jdatasrc.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jdcoefct.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jdcolor.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jddctmgr.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jdhuff.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jdinput.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jdmainct.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jdmarker.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jdmaster.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jdmerge.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jdphuff.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jdpostct.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jdsample.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jdtrans.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jerror.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jfdctflt.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jfdctfst.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jfdctint.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jidctflt.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jidctfst.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jidctint.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jidctred.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jmemmgr.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jmemnobs.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jquant1.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jquant2.c"
+"D:\Back2C\Gway_doc\My Documents\HB\Server 2.24d\Src\[savefile]060521094254_Client__SRC_\jpeg\Jutils.c"
+]
+Creating command line "cl.exe @C:\DOCUME~1\GWAY\LOCALS~1\Temp\RSP223.tmp" 
+Creating temporary file "C:\DOCUME~1\GWAY\LOCALS~1\Temp\RSP224.tmp" with contents
+[
+/nologo /out:"Release\jpeg.lib" 
+".\Release\Jcapimin.obj"
+".\Release\Jcapistd.obj"
+".\Release\Jccoefct.obj"
+".\Release\Jccolor.obj"
+".\Release\Jcdctmgr.obj"
+".\Release\Jchuff.obj"
+".\Release\Jcinit.obj"
+".\Release\Jcmainct.obj"
+".\Release\Jcmarker.obj"
+".\Release\Jcmaster.obj"
+".\Release\Jcomapi.obj"
+".\Release\Jcparam.obj"
+".\Release\Jcphuff.obj"
+".\Release\Jcprepct.obj"
+".\Release\Jcsample.obj"
+".\Release\Jctrans.obj"
+".\Release\Jdapimin.obj"
+".\Release\Jdapistd.obj"
+".\Release\Jdatadst.obj"
+".\Release\Jdatasrc.obj"
+".\Release\Jdcoefct.obj"
+".\Release\Jdcolor.obj"
+".\Release\Jddctmgr.obj"
+".\Release\Jdhuff.obj"
+".\Release\Jdinput.obj"
+".\Release\Jdmainct.obj"
+".\Release\Jdmarker.obj"
+".\Release\Jdmaster.obj"
+".\Release\Jdmerge.obj"
+".\Release\Jdphuff.obj"
+".\Release\Jdpostct.obj"
+".\Release\Jdsample.obj"
+".\Release\Jdtrans.obj"
+".\Release\Jerror.obj"
+".\Release\Jfdctflt.obj"
+".\Release\Jfdctfst.obj"
+".\Release\Jfdctint.obj"
+".\Release\Jidctflt.obj"
+".\Release\Jidctfst.obj"
+".\Release\Jidctint.obj"
+".\Release\Jidctred.obj"
+".\Release\Jmemmgr.obj"
+".\Release\Jmemnobs.obj"
+".\Release\Jquant1.obj"
+".\Release\Jquant2.obj"
+".\Release\Jutils.obj"
+]
+Creating command line "link.exe -lib @C:\DOCUME~1\GWAY\LOCALS~1\Temp\RSP224.tmp"
+<h3>Output Window</h3>
+Compiling...
+Jcapimin.c
+Jcapistd.c
+Jccoefct.c
+Jccolor.c
+Jcdctmgr.c
+Jchuff.c
+Jcinit.c
+Jcmainct.c
+Jcmarker.c
+Jcmaster.c
+Jcomapi.c
+Jcparam.c
+Jcphuff.c
+Jcprepct.c
+Jcsample.c
+Jctrans.c
+Jdapimin.c
+Jdapistd.c
+Jdatadst.c
+Jdatasrc.c
+Generating Code...
+Compiling...
+Jdcoefct.c
+Jdcolor.c
+Jddctmgr.c
+Jdhuff.c
+Jdinput.c
+Jdmainct.c
+Jdmarker.c
+Jdmaster.c
+Jdmerge.c
+Jdphuff.c
+Jdpostct.c
+Jdsample.c
+Jdtrans.c
+Jerror.c
+Jfdctflt.c
+Jfdctfst.c
+Jfdctint.c
+Jidctflt.c
+Jidctfst.c
+Jidctint.c
+Generating Code...
+Compiling...
+Jidctred.c
+Jmemmgr.c
+Jmemnobs.c
+Jquant1.c
+Jquant2.c
+Jutils.c
+Generating Code...
+Creating library...
+
+
+
+<h3>Results</h3>
+jpeg.lib - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
